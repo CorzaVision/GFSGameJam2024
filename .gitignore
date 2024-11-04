@@ -78,3 +78,5 @@ GameJam_Hens/Saved/Logs/WorldPartition/StreamingGeneration-PIE_FirstPersonMap-00
 *.log
 GameJam_Hens/Saved/Telemetry/Telemetry.json
 *.json
+GameJam_Hens/Saved/Logs/GameJam_Hens.log
+*.json
