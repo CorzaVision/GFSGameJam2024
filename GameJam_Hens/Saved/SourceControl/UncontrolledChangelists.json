@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/GameJam_2024/GameJam_Hens/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/GameJam_2024/GameJam_Hens/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"F:/GameJam_2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"F:/GameJam_2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset"
+			]
+		}
+	]
+}
