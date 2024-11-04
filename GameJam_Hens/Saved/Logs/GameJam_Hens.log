@@ -14688,3 +14688,1837 @@ Make sure '/Game/Blueprints/UW_PlayerScreen.UW_PlayerScreen_C' has been compiled
 [2024.11.04-16.46.57:686][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UW_PlayerScreen_Auto5
 [2024.11.04-16.46.57:686][181]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/UW_PlayerScreen_Auto5F751581A4F8AB2CD1B772C90E2B87A16.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Autosaves/Game/Blueprints/UW_PlayerScreen_Auto5.uasset'
 [2024.11.04-16.46.57:687][181]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.11.04-16.54.08:197][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.04-16.54.09:281][496]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.04-16.54.50:083][275]Cmd: MODE ROTGRID=0
+[2024.11.04-16.54.52:665][445]Cmd: TRANSACTION UNDO
+[2024.11.04-16.54.52:665][445]LogEditorTransaction: Undo Rotate Elements
+[2024.11.04-16.54.53:849][497]Cmd: TRANSACTION UNDO
+[2024.11.04-16.54.53:850][497]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-16.56.17:163][286]Cmd: TRANSACTION UNDO
+[2024.11.04-16.56.17:163][286]LogEditorTransaction: Undo Edit Start Distance
+[2024.11.04-16.56.17:472][290]Cmd: TRANSACTION UNDO
+[2024.11.04-16.56.17:472][290]LogEditorTransaction: Undo Edit Fog Cutoff Distance
+[2024.11.04-16.56.18:118][321]Cmd: TRANSACTION UNDO
+[2024.11.04-16.56.18:118][321]LogEditorTransaction: Undo Edit Start Distance
+[2024.11.04-16.56.27:259][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.11.04-16.56.27:270][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-16.56.27:326][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-16.56.27:358][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.04-16.56.27:439][ 36]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-16.56.27:440][ 36]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/MainDAE913EA4F8B568B31F0148624E25E89.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-16.56.27:448][ 36]LogFileHelpers: Saving map 'Main' took 0.123
+[2024.11.04-16.56.27:449][ 36]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UW_PlayerScreen] ([2] browsable assets)...
+[2024.11.04-16.56.27:457][ 36]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UW_PlayerScreen.UW_PlayerScreen]
+[2024.11.04-16.56.27:457][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UW_PlayerScreen]
+[2024.11.04-16.56.27:457][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UW_PlayerScreen" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/UW_PlayerScreen.uasset" SILENT=true
+[2024.11.04-16.56.27:464][ 36]LogSavePackage: Moving output files for package: /Game/Blueprints/UW_PlayerScreen
+[2024.11.04-16.56.27:465][ 36]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/UW_PlayerScreen932DF3144A344B4D1D451FA71970CC97.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/UW_PlayerScreen.uasset'
+[2024.11.04-16.56.27:479][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.660 ms (total: 27.4 sec)
+[2024.11.04-16.56.27:540][ 36]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.04-16.56.27:540][ 36]LogContentValidation: Enabled validators:
+[2024.11.04-16.56.27:540][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-16.56.27:540][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-16.56.27:540][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-16.56.27:540][ 36]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-16.56.27:542][ 36]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-16.56.27:542][ 36]LogContentValidation: Display: Validating asset /Game/Blueprints/UW_PlayerScreen.UW_PlayerScreen
+[2024.11.04-16.56.27:544][ 36]AssetCheck: /Game/Blueprints/UW_PlayerScreen Validating asset
+[2024.11.04-16.56.28:750][136]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Boss_Eye.BP_Boss_Eye
+[2024.11.04-16.56.40:247][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.04-16.56.40:254][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-16.56.40:307][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-16.56.40:337][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.04-16.56.40:418][996]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-16.56.40:419][996]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Main832196D344196CDA5D23F3800BDE1782.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-16.56.40:427][996]LogFileHelpers: Saving map 'Main' took 0.121
+[2024.11.04-16.56.40:428][996]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boss_Eye] ([2] browsable assets)...
+[2024.11.04-16.56.40:439][996]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boss_Eye.BP_Boss_Eye]
+[2024.11.04-16.56.40:439][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boss_Eye]
+[2024.11.04-16.56.40:439][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boss_Eye" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/BP_Boss_Eye.uasset" SILENT=true
+[2024.11.04-16.56.40:459][996]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boss_Eye
+[2024.11.04-16.56.40:459][996]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_Boss_Eye4F34F8D3446AD24E52C2B393C260674A.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/BP_Boss_Eye.uasset'
+[2024.11.04-16.56.40:474][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.550 ms (total: 27.7 sec)
+[2024.11.04-16.56.40:523][996]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.04-16.56.40:523][996]LogContentValidation: Enabled validators:
+[2024.11.04-16.56.40:523][996]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-16.56.40:523][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-16.56.40:523][996]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-16.56.40:523][996]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-16.56.40:523][996]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-16.56.40:523][996]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Boss_Eye.BP_Boss_Eye
+[2024.11.04-16.56.40:523][996]AssetCheck: /Game/Blueprints/BP_Boss_Eye Validating asset
+[2024.11.04-16.56.41:542][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.04-16.56.53:456][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.04-16.56.53:469][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-16.56.53:511][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-16.56.53:542][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.04-16.56.53:628][965]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-16.56.53:628][965]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Main5181233542620C9AA8D4C7ACC13C5FE2.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-16.56.53:636][965]LogFileHelpers: Saving map 'Main' took 0.126
+[2024.11.04-16.56.53:637][965]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boss_Eye] ([2] browsable assets)...
+[2024.11.04-16.56.53:678][965]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boss_Eye.BP_Boss_Eye]
+[2024.11.04-16.56.53:678][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boss_Eye]
+[2024.11.04-16.56.53:678][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boss_Eye" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/BP_Boss_Eye.uasset" SILENT=true
+[2024.11.04-16.56.53:696][965]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boss_Eye
+[2024.11.04-16.56.53:697][965]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_Boss_Eye276563344EE055EA43C19D98E4FEA186.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/BP_Boss_Eye.uasset'
+[2024.11.04-16.56.53:713][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.752 ms (total: 27.9 sec)
+[2024.11.04-16.56.53:774][965]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.04-16.56.53:774][965]LogContentValidation: Enabled validators:
+[2024.11.04-16.56.53:774][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-16.56.53:774][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-16.56.53:774][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-16.56.53:774][965]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-16.56.53:774][965]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-16.56.53:774][965]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Boss_Eye.BP_Boss_Eye
+[2024.11.04-16.56.53:775][965]AssetCheck: /Game/Blueprints/BP_Boss_Eye Validating asset
+[2024.11.04-16.57.14:279][479]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.04-16.57.14:299][479]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.04-16.57.22:043][ 94]Cmd: DELETE
+[2024.11.04-16.57.22:044][ 94]Cmd: ACTOR DELETE
+[2024.11.04-16.57.22:054][ 94]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-16.57.22:074][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.04-16.57.22:080][ 94]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2024.11.04-16.58.58:282][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.04-16.58.58:292][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-16.58.58:357][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-16.58.58:390][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.04-16.58.58:470][199]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-16.58.58:471][199]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/MainD7E680E241D285F5F0850490B41CEC2A.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-16.58.58:478][199]LogFileHelpers: Saving map 'Main' took 0.122
+[2024.11.04-16.58.58:492][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.281 ms (total: 28.1 sec)
+[2024.11.04-16.58.58:538][199]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-16.58.58:538][199]LogContentValidation: Enabled validators:
+[2024.11.04-16.58.58:538][199]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-16.58.58:538][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-16.58.58:538][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-16.58.58:538][199]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-16.58.58:538][199]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-16.59.03:461][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.04-16.59.19:932][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.04-16.59.19:939][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-16.59.19:989][860]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Boss_Eye] ([2] browsable assets)...
+[2024.11.04-16.59.19:999][860]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Boss_Eye.BP_Boss_Eye]
+[2024.11.04-16.59.19:999][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Boss_Eye]
+[2024.11.04-16.59.19:999][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Boss_Eye" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/BP_Boss_Eye.uasset" SILENT=true
+[2024.11.04-16.59.20:017][860]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Boss_Eye
+[2024.11.04-16.59.20:018][860]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_Boss_Eye1F7437394AB00EDC62ABCCA6F3A5442D.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/BP_Boss_Eye.uasset'
+[2024.11.04-16.59.20:030][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.928 ms (total: 28.2 sec)
+[2024.11.04-16.59.20:090][860]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-16.59.20:090][860]LogContentValidation: Enabled validators:
+[2024.11.04-16.59.20:090][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-16.59.20:090][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-16.59.20:090][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-16.59.20:090][860]LogContentValidation: Display: Validating asset /Game/Blueprints/BP_Boss_Eye.BP_Boss_Eye
+[2024.11.04-16.59.20:090][860]AssetCheck: /Game/Blueprints/BP_Boss_Eye Validating asset
+[2024.11.04-16.59.21:110][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.04-16.59.54:270][341]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.04-17.00.23:993][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.04-17.00.24:004][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.00.24:075][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.00.24:108][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.04-17.00.24:192][594]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.00.24:193][594]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Main349302424400080DE2A98CBF2B50F8B5.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.00.24:203][594]LogFileHelpers: Saving map 'Main' took 0.129
+[2024.11.04-17.00.24:216][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.560 ms (total: 28.4 sec)
+[2024.11.04-17.00.24:271][594]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.00.24:271][594]LogContentValidation: Enabled validators:
+[2024.11.04-17.00.24:271][594]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.00.24:271][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.00.24:271][594]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.00.24:271][594]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.00.24:271][594]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.00.28:254][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-17.00.28:268][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-17.00.28:317][904]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.00.28:343][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025298s)
+[2024.11.04-17.00.28:343][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.025360s)
+[2024.11.04-17.00.28:356][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.04-17.00.28:358][904]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.04-17.00.28:359][904]LogPlayLevel: PIE: World Init took: (0.001217s)
+[2024.11.04-17.00.28:371][904]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2024.11.04-17.00.28:371][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-17.00.28:371][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-17.00.28:371][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-17.00.28:371][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-17.00.28:371][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-17.00.28:371][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-17.00.28:371][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-17.00.28:371][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-17.00.28:371][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-17.00.28:371][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-17.00.28:371][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-17.00.28:373][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-17.00.28:393][904]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hesh Evo)
+[2024.11.04-17.00.28:393][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-17.00.28:393][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-17.00.28:393][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-17.00.28:394][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2024.11.04-17.00.28:394][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2024.11.04-17.00.28:397][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2024.11.04-17.00.28:397][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2024.11.04-17.00.28:397][904]LogInit: FAudioDevice initialized with ID 75.
+[2024.11.04-17.00.28:397][904]LogAudio: Display: Audio Device (ID: 75) registered with world 'Main'.
+[2024.11.04-17.00.28:397][904]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 75
+[2024.11.04-17.00.28:400][904]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-17.00.28:433][904]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.05-03.00.28
+[2024.11.04-17.00.28:446][904]LogWorld: Bringing up level for play took: 0.045357
+[2024.11.04-17.00.28:449][904]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2024.11.04-17.00.28:468][904]PIE: Server logged in
+[2024.11.04-17.00.28:468][904]PIE: Play in editor total start time 0.207 seconds.
+[2024.11.04-17.00.29:533][978]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.00.30:894][ 99]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.00.31:083][116]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.00.31:363][139]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Enemy Projectile Spawned
+[2024.11.04-17.00.31:363][139]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_0] PLAYER HIT
+[2024.11.04-17.00.32:630][245]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.00.33:101][285]LogBlueprintUserMessages: [BP_Boss_Projectile_C_0] PLAYER HIT
+[2024.11.04-17.00.33:188][292]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.00.33:321][303]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.00.33:782][342]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_4] PLAYER HIT
+[2024.11.04-17.00.33:782][342]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Enemy Projectile Spawned
+[2024.11.04-17.00.33:879][350]LogBlueprintUserMessages: [BP_Squidzoid_C_29] DAMAGE ACTOR !!!
+[2024.11.04-17.00.34:178][375]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.00.34:646][414]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_5] PLAYER HIT
+[2024.11.04-17.00.34:646][414]LogBlueprintUserMessages: [BP_Squidzoid_C_29] Enemy Projectile Spawned
+[2024.11.04-17.00.35:726][506]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.00.36:073][536]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Enemy Projectile Spawned
+[2024.11.04-17.00.36:133][541]LogBlueprintUserMessages: [BP_Boss_Projectile_C_2] PLAYER HIT
+[2024.11.04-17.00.36:504][574]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_6] PLAYER HIT
+[2024.11.04-17.00.36:618][584]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.00.36:942][613]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_8] PLAYER HIT
+[2024.11.04-17.00.36:942][613]LogBlueprintUserMessages: [BP_Squidzoid_C_29] Enemy Projectile Spawned
+[2024.11.04-17.00.36:955][614]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.00.37:111][628]LogBlueprintUserMessages: [BP_Squidzoid_C_29] DAMAGE ACTOR !!!
+[2024.11.04-17.00.37:145][631]LogBlueprintUserMessages: [BP_Squidzoid_C_31] DAMAGE ACTOR !!!
+[2024.11.04-17.00.37:279][643]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.00.37:489][660]LogBlueprintUserMessages: [BP_Squidzoid_C_41] Enemy Projectile Spawned
+[2024.11.04-17.00.37:511][662]LogCharacterMovement: BP_Squidzoid_C_39 is stuck and failed to move! Velocity: X=7.25 Y=-21.89 Z=0.00 Location: X=5924.95 Y=1442.13 Z=79.65 Normal: X=0.11 Y=0.88 Z=-0.47 PenetrationDepth:24.838 Actor:BP_EnemyProjectileBase_C_10 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.00.37:635][673]LogBlueprintUserMessages: [BP_Boss_Projectile_C_3] PLAYER HIT
+[2024.11.04-17.00.37:839][691]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_9] PLAYER HIT
+[2024.11.04-17.00.38:233][725]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_10] PLAYER HIT
+[2024.11.04-17.00.38:366][736]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Enemy Projectile Spawned
+[2024.11.04-17.00.38:590][755]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.00.38:756][769]LogBlueprintUserMessages: [BP_Squidzoid_C_39] DAMAGE ACTOR !!!
+[2024.11.04-17.00.38:756][769]LogBlueprintUserMessages: [BP_Squidzoid_C_43] DAMAGE ACTOR !!!
+[2024.11.04-17.00.38:827][775]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.00.38:898][781]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_13] PLAYER HIT
+[2024.11.04-17.00.38:898][781]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.00.38:944][785]LogBlueprintUserMessages: [BP_Squidzoid_C_45] Enemy Projectile Spawned
+[2024.11.04-17.00.39:233][809]LogBlueprintUserMessages: [BP_Squidzoid_C_29] Enemy Projectile Spawned
+[2024.11.04-17.00.39:501][832]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_16] PLAYER HIT
+[2024.11.04-17.00.39:501][832]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.00.39:578][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.00.39:579][836]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.00.39:580][836]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.00.39:582][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.00.39:583][836]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.04-17.00.39:583][836]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.04-17.00.39:589][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-17.00.39:595][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.00.39:611][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.00.39:613][836]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 75
+[2024.11.04-17.00.39:613][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2024.11.04-17.00.39:615][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2024.11.04-17.00.39:627][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.04-17.00.39:766][837]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2024.11.04-17.00.47:286][421]Cmd: DELETE
+[2024.11.04-17.00.47:286][421]Cmd: ACTOR DELETE
+[2024.11.04-17.00.47:296][421]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.00.47:316][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.04-17.00.47:322][421]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.11.04-17.00.48:324][499]Cmd: DELETE
+[2024.11.04-17.00.48:324][499]Cmd: ACTOR DELETE
+[2024.11.04-17.00.48:334][499]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.00.48:353][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.04-17.00.48:359][499]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.11.04-17.00.55:191][ 12]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.04-17.00.56:505][125]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.11.04-17.00.56:630][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.04-17.00.56:637][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.00.56:687][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.00.56:718][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.04-17.00.56:798][132]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.00.56:799][132]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/MainBB7CA03840177E8D3D2F39AF96CD37E2.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.00.56:807][132]LogFileHelpers: Saving map 'Main' took 0.121
+[2024.11.04-17.00.56:820][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.893 ms (total: 28.6 sec)
+[2024.11.04-17.00.56:869][132]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.00.56:869][132]LogContentValidation: Enabled validators:
+[2024.11.04-17.00.56:869][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.00.56:869][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.00.56:869][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.00.56:869][132]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.00.56:869][132]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.00.57:372][175]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-17.00.57:381][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-17.00.57:381][175]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.00.57:404][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023146s)
+[2024.11.04-17.00.57:404][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.023198s)
+[2024.11.04-17.00.57:417][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.04-17.00.57:419][175]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.04-17.00.57:420][175]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2024.11.04-17.00.57:432][175]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2024.11.04-17.00.57:432][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-17.00.57:432][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-17.00.57:432][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-17.00.57:432][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-17.00.57:432][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-17.00.57:432][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-17.00.57:432][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-17.00.57:432][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-17.00.57:432][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-17.00.57:432][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-17.00.57:432][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-17.00.57:434][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-17.00.57:456][175]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hesh Evo)
+[2024.11.04-17.00.57:456][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-17.00.57:456][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-17.00.57:456][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-17.00.57:456][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2024.11.04-17.00.57:456][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2024.11.04-17.00.57:460][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2024.11.04-17.00.57:460][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2024.11.04-17.00.57:460][175]LogInit: FAudioDevice initialized with ID 76.
+[2024.11.04-17.00.57:460][175]LogAudio: Display: Audio Device (ID: 76) registered with world 'Main'.
+[2024.11.04-17.00.57:460][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2024.11.04-17.00.57:463][175]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-17.00.57:493][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.05-03.00.57
+[2024.11.04-17.00.57:507][175]LogWorld: Bringing up level for play took: 0.043776
+[2024.11.04-17.00.57:510][175]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2024.11.04-17.00.57:529][175]PIE: Server logged in
+[2024.11.04-17.00.57:531][175]PIE: Play in editor total start time 0.152 seconds.
+[2024.11.04-17.00.58:597][259]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.00:133][404]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.01:624][540]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.01.01:681][545]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.02:077][582]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.02:077][582]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.01.02:249][597]LogBlueprintUserMessages: [BP_Squidzoid_C_45] Actor has been Hit
+[2024.11.04-17.01.02:249][597]LogBlueprintUserMessages: [BP_Squidzoid_C_45] 50
+[2024.11.04-17.01.02:250][597]LogBlueprintUserMessages: [BP_AttackSpell_C_0] Ball has been Destroyed
+[2024.11.04-17.01.02:677][637]LogBlueprintUserMessages: [BP_Squidzoid_C_45] Enemy Projectile Spawned
+[2024.11.04-17.01.02:734][642]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Enemy Projectile Spawned
+[2024.11.04-17.01.02:833][651]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.02:833][651]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.01.03:167][681]LogBlueprintUserMessages: [BP_Squidzoid_C_45] Actor has been Hit
+[2024.11.04-17.01.03:167][681]LogBlueprintUserMessages: [BP_Squidzoid_C_45] 0
+[2024.11.04-17.01.03:167][681]LogBlueprintUserMessages: [BP_Squidzoid_C_45] Creature has Been Killed
+[2024.11.04-17.01.03:168][681]LogBlueprintUserMessages: [BP_AttackSpell_C_1] Ball has been Destroyed
+[2024.11.04-17.01.03:190][683]LogBlueprintUserMessages: [BP_Boss_Projectile_C_1] PLAYER HIT
+[2024.11.04-17.01.03:224][686]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.04:765][827]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.05:016][851]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Enemy Projectile Spawned
+[2024.11.04-17.01.05:792][924]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.01.06:303][972]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.06:387][979]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.01.06:878][ 22]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.01.07:858][107]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.08:354][150]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.08:354][150]LogBlueprintUserMessages: [BP_Weapon_Component] 7
+[2024.11.04-17.01.08:406][154]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.01.08:618][172]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Actor has been Hit
+[2024.11.04-17.01.08:618][172]LogBlueprintUserMessages: [BP_Squidzoid_C_35] 50
+[2024.11.04-17.01.08:619][172]LogBlueprintUserMessages: [BP_AttackSpell_C_2] Ball has been Destroyed
+[2024.11.04-17.01.09:074][213]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.09:074][213]LogBlueprintUserMessages: [BP_Weapon_Component] 6
+[2024.11.04-17.01.09:333][236]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Actor has been Hit
+[2024.11.04-17.01.09:333][236]LogBlueprintUserMessages: [BP_Squidzoid_C_35] 0
+[2024.11.04-17.01.09:334][236]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Creature has Been Killed
+[2024.11.04-17.01.09:335][236]LogBlueprintUserMessages: [BP_AttackSpell_C_3] Ball has been Destroyed
+[2024.11.04-17.01.09:403][242]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.09:691][268]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.09:691][268]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.01.09:947][291]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Actor has been Hit
+[2024.11.04-17.01.09:947][291]LogBlueprintUserMessages: [BP_Squidzoid_C_39] 50
+[2024.11.04-17.01.09:948][291]LogBlueprintUserMessages: [BP_AttackSpell_C_4] Ball has been Destroyed
+[2024.11.04-17.01.10:047][300]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.01.10:280][321]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.10:280][321]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.01.10:528][343]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Actor has been Hit
+[2024.11.04-17.01.10:528][343]LogBlueprintUserMessages: [BP_Squidzoid_C_39] 0
+[2024.11.04-17.01.10:528][343]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Creature has Been Killed
+[2024.11.04-17.01.10:529][343]LogBlueprintUserMessages: [BP_AttackSpell_C_5] Ball has been Destroyed
+[2024.11.04-17.01.10:813][369]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.10:813][369]LogBlueprintUserMessages: [BP_Weapon_Component] 3
+[2024.11.04-17.01.10:953][381]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.11:010][386]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Actor has been Hit
+[2024.11.04-17.01.11:010][386]LogBlueprintUserMessages: [BP_Squidzoid_C_31] 50
+[2024.11.04-17.01.11:011][386]LogBlueprintUserMessages: [BP_AttackSpell_C_6] Ball has been Destroyed
+[2024.11.04-17.01.11:349][416]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.11:349][416]LogBlueprintUserMessages: [BP_Weapon_Component] 2
+[2024.11.04-17.01.11:509][430]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Actor has been Hit
+[2024.11.04-17.01.11:510][430]LogBlueprintUserMessages: [BP_Squidzoid_C_31] 0
+[2024.11.04-17.01.11:510][430]LogBlueprintUserMessages: [BP_Squidzoid_C_31] Creature has Been Killed
+[2024.11.04-17.01.11:511][430]LogBlueprintUserMessages: [BP_AttackSpell_C_7] Ball has been Destroyed
+[2024.11.04-17.01.12:500][518]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.12:522][520]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Capture Mode
+[2024.11.04-17.01.12:938][557]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.01.13:044][566]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.01.13:449][601]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.01.13:998][649]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.14:049][653]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.14:221][668]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.01.14:221][668]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Creature Cannot Be Captured
+[2024.11.04-17.01.14:221][668]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.01.14:221][668]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Creature Cannot Be Captured
+[2024.11.04-17.01.14:223][668]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.01.14:223][668]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Creature Cannot Be Captured
+[2024.11.04-17.01.14:224][668]LogBlueprintUserMessages: [BP_CaptureSpell_C_0] Ball has been Destroyed
+[2024.11.04-17.01.14:372][681]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Enemy Projectile Spawned
+[2024.11.04-17.01.14:477][690]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Enemy Projectile Spawned
+[2024.11.04-17.01.14:488][691]LogBlueprintUserMessages: [BP_Weapon_Component] false
+[2024.11.04-17.01.14:904][728]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.15:142][749]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Actor has been Hit
+[2024.11.04-17.01.15:142][749]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Creature Cannot Be Captured
+[2024.11.04-17.01.15:144][749]LogBlueprintUserMessages: [BP_CaptureSpell_C_1] Ball has been Destroyed
+[2024.11.04-17.01.15:341][767]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.01.15:398][772]LogBlueprintUserMessages: [BP_Weapon_Component] true
+[2024.11.04-17.01.15:596][790]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.15:686][798]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.15:904][817]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.01.15:904][817]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Creature Cannot Be Captured
+[2024.11.04-17.01.15:904][817]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.01.15:904][817]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Creature Cannot Be Captured
+[2024.11.04-17.01.15:905][817]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.01.15:905][817]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Creature Cannot Be Captured
+[2024.11.04-17.01.15:908][817]LogBlueprintUserMessages: [BP_CaptureSpell_C_2] Ball has been Destroyed
+[2024.11.04-17.01.16:183][842]LogBlueprintUserMessages: [BP_Weapon_Component] false
+[2024.11.04-17.01.16:537][872]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.01.17:145][925]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.18:187][ 17]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.01.18:610][ 54]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.01.18:691][ 61]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.18:784][ 69]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.01.20:234][196]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.20:713][239]LogCharacterMovement: BP_Squidzoid_C_21 is stuck and failed to move! Velocity: X=-586.48 Y=-126.65 Z=0.00 Location: X=5301.86 Y=1845.14 Z=77.61 Normal: X=0.64 Y=-0.54 Z=-0.55 PenetrationDepth:3.924 Actor:BP_Boss_Projectile_C_12 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.01.21:777][334]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.23:319][472]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.23:352][475]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=-51.79 Y=-1.63 Z=0.00 Location: X=4570.57 Y=1184.92 Z=105.80 Normal: X=0.84 Y=-0.14 Z=0.53 PenetrationDepth:7.085 Actor:BP_Boss_Projectile_C_14 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.01.24:520][577]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.01.24:716][594]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=-583.69 Y=-133.25 Z=0.00 Location: X=4045.85 Y=1164.59 Z=80.50 Normal: X=0.39 Y=0.92 Z=0.05 PenetrationDepth:2.056 Actor:BP_Boss_Projectile_C_15 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.01.24:749][597]LogCharacterMovement: BP_Squidzoid_C_15 is stuck and failed to move! Velocity: X=-590.65 Y=-105.51 Z=0.00 Location: X=4124.61 Y=1152.07 Z=80.62 Normal: X=0.92 Y=0.24 Z=0.32 PenetrationDepth:4.832 Actor:BP_Boss_Projectile_C_15 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.01.24:861][607]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.25:185][636]LogCharacterMovement: BP_Squidzoid_C_33 is stuck and failed to move! Velocity: X=-529.10 Y=-282.94 Z=0.00 Location: X=4026.48 Y=1161.30 Z=79.53 Normal: X=-0.41 Y=0.91 Z=-0.00 PenetrationDepth:1.077 Actor:BP_EnemyProjectileBase_C_17 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.01.26:404][743]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.27:950][880]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.29:489][ 16]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.29:600][ 26]LogBlueprintUserMessages: [BP_Squidzoid_C_15] Enemy Projectile Spawned
+[2024.11.04-17.01.29:601][ 26]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.01.29:672][ 32]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.01.31:035][152]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.32:553][285]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.01.32:591][288]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.34:142][426]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.35:684][564]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.37:225][704]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.38:152][786]LogBlueprintUserMessages: [BP_Squidzoid_C_9] DAMAGE ACTOR !!!
+[2024.11.04-17.01.38:580][824]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_22] PLAYER HIT
+[2024.11.04-17.01.38:580][824]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.01.38:779][841]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.39:134][872]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_23] PLAYER HIT
+[2024.11.04-17.01.39:134][872]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Enemy Projectile Spawned
+[2024.11.04-17.01.39:262][883]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_24] PLAYER HIT
+[2024.11.04-17.01.39:262][883]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Enemy Projectile Spawned
+[2024.11.04-17.01.39:404][895]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.01.39:521][905]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.01.39:558][908]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_25] PLAYER HIT
+[2024.11.04-17.01.39:628][914]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.01.39:745][924]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.01.39:857][933]LogBlueprintUserMessages: [BP_Squidzoid_C_15] Enemy Projectile Spawned
+[2024.11.04-17.01.40:035][948]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.01.40:197][962]LogCharacterMovement: BP_Squidzoid_C_21 is stuck and failed to move! Velocity: X=44.69 Y=12.04 Z=0.00 Location: X=4137.32 Y=-259.67 Z=79.65 Normal: X=-0.96 Y=-0.29 Z=-0.00 PenetrationDepth:44.485 Actor:BP_EnemyProjectileBase_C_30 Component:Sphere BoneName:None (1 other events since notify)
+[2024.11.04-17.01.40:333][974]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.40:881][ 22]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.01.40:894][ 23]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.01.40:918][ 25]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=170.22 Y=-4.96 Z=0.00 Location: X=4090.55 Y=-281.95 Z=78.56 Normal: X=-0.13 Y=0.95 Z=-0.30 PenetrationDepth:6.649 Actor:BP_EnemyProjectileBase_C_32 Component:Sphere BoneName:None (2 other events since notify)
+[2024.11.04-17.01.41:417][ 71]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Enemy Projectile Spawned
+[2024.11.04-17.01.41:539][ 82]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Enemy Projectile Spawned
+[2024.11.04-17.01.41:684][ 95]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.01.41:809][106]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.01.41:832][108]LogCharacterMovement: BP_Squidzoid_C_15 is stuck and failed to move! Velocity: X=76.35 Y=-29.35 Z=0.00 Location: X=4301.49 Y=-169.08 Z=78.75 Normal: X=-0.83 Y=0.16 Z=-0.54 PenetrationDepth:28.116 Actor:BP_EnemyProjectileBase_C_36 Component:Sphere BoneName:None (1 other events since notify)
+[2024.11.04-17.01.41:879][112]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.43:152][225]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.01.43:371][244]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.01.43:433][249]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.43:706][272]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Enemy Projectile Spawned
+[2024.11.04-17.01.44:144][310]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.01.44:166][312]LogCharacterMovement: BP_Squidzoid_C_15 is stuck and failed to move! Velocity: X=430.53 Y=82.94 Z=0.00 Location: X=4343.73 Y=-159.47 Z=77.70 Normal: X=-0.84 Y=0.04 Z=-0.53 PenetrationDepth:24.645 Actor:BP_EnemyProjectileBase_C_40 Component:Sphere BoneName:None (3 other events since notify)
+[2024.11.04-17.01.44:975][381]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.46:519][518]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.48:049][655]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.01.48:063][656]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.48:292][676]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.01.48:475][692]LogBlueprintUserMessages: [BP_Squidzoid_C_15] Enemy Projectile Spawned
+[2024.11.04-17.01.48:612][704]LogCharacterMovement: BP_Squidzoid_C_9 is stuck and failed to move! Velocity: X=-22.15 Y=6.85 Z=0.00 Location: X=4628.54 Y=755.66 Z=77.88 Normal: X=0.45 Y=0.81 Z=-0.37 PenetrationDepth:38.365 Actor:BP_EnemyProjectileBase_C_43 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.01.48:671][709]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Enemy Projectile Spawned
+[2024.11.04-17.01.49:606][791]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.50:536][872]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.01.51:150][925]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.52:690][ 59]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.54:248][196]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.54:610][228]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.01.55:787][332]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.57:336][469]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.58:326][558]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.01.58:327][558]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.01.58:882][608]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.01.58:998][618]LogBlueprintUserMessages: [BP_AttackSpell_C_8] Ball has been Destroyed
+[2024.11.04-17.01.59:427][657]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Enemy Projectile Spawned
+[2024.11.04-17.02.00:435][745]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.01:125][805]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Capture Mode
+[2024.11.04-17.02.01:721][857]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Enemy Projectile Spawned
+[2024.11.04-17.02.01:975][879]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.03:519][ 16]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.05:065][153]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.05:813][221]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.05:951][233]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Actor has been Hit
+[2024.11.04-17.02.05:951][233]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Creature Cannot Be Captured
+[2024.11.04-17.02.05:953][233]LogBlueprintUserMessages: [BP_CaptureSpell_C_3] Ball has been Destroyed
+[2024.11.04-17.02.06:302][265]LogBlueprintUserMessages: [BP_Weapon_Component] true
+[2024.11.04-17.02.06:611][293]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.07:340][357]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.02.07:475][369]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.08:162][429]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.09:702][570]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.09:757][575]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.09:908][589]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Enemy Projectile Spawned
+[2024.11.04-17.02.09:919][590]LogCharacterMovement: BP_Squidzoid_C_17 is stuck and failed to move! Velocity: X=3.73 Y=-26.24 Z=0.00 Location: X=-1615.75 Y=-3277.97 Z=79.65 Normal: X=-0.76 Y=0.57 Z=-0.29 PenetrationDepth:6.003 Actor:BP_EnemyProjectileBase_C_51 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.02.10:161][612]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.02.10:888][676]LogBlueprintUserMessages: [BP_Boss_Projectile_C_46] PLAYER HIT
+[2024.11.04-17.02.11:257][705]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.12:284][795]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.12:284][795]LogBlueprintUserMessages: [BP_Weapon_Component] 8
+[2024.11.04-17.02.12:311][797]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Actor has been Hit
+[2024.11.04-17.02.12:311][797]LogBlueprintUserMessages: [BP_Squidzoid_C_27] 50
+[2024.11.04-17.02.12:312][797]LogBlueprintUserMessages: [BP_AttackSpell_C_9] Ball has been Destroyed
+[2024.11.04-17.02.12:805][840]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.12:805][840]LogBlueprintUserMessages: [BP_Weapon_Component] 7
+[2024.11.04-17.02.12:809][840]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.12:995][856]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.13:008][857]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Actor has been Hit
+[2024.11.04-17.02.13:008][857]LogBlueprintUserMessages: [BP_Squidzoid_C_23] 50
+[2024.11.04-17.02.13:010][857]LogBlueprintUserMessages: [BP_AttackSpell_C_10] Ball has been Destroyed
+[2024.11.04-17.02.13:558][905]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Enemy Projectile Spawned
+[2024.11.04-17.02.13:558][905]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Enemy Projectile Spawned
+[2024.11.04-17.02.14:349][974]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.15:080][ 39]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.02.15:277][ 57]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.15:583][ 85]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.02.15:895][113]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.16:450][162]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Enemy Projectile Spawned
+[2024.11.04-17.02.16:577][173]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.16:577][173]LogBlueprintUserMessages: [BP_Weapon_Component] 10
+[2024.11.04-17.02.16:593][174]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.02.16:594][174]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.02.16:594][174]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Enemy Projectile Spawned
+[2024.11.04-17.02.16:595][174]LogBlueprintUserMessages: [BP_Squidzoid_C_15] Enemy Projectile Spawned
+[2024.11.04-17.02.16:595][174]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Enemy Projectile Spawned
+[2024.11.04-17.02.16:892][199]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Actor has been Hit
+[2024.11.04-17.02.16:892][199]LogBlueprintUserMessages: [BP_Squidzoid_C_11] 50
+[2024.11.04-17.02.16:893][199]LogBlueprintUserMessages: [BP_AttackSpell_C_11] Ball has been Destroyed
+[2024.11.04-17.02.16:938][203]LogBlueprintUserMessages: [BP_Weapon_Component] Ball Is Already Spawned !!!!
+[2024.11.04-17.02.17:373][241]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.17:373][241]LogBlueprintUserMessages: [BP_Weapon_Component] 9
+[2024.11.04-17.02.17:375][241]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.02.17:398][243]LogCharacterMovement: BP_Squidzoid_C_17 is stuck and failed to move! Velocity: X=510.84 Y=56.31 Z=0.00 Location: X=-1402.44 Y=-3998.97 Z=77.59 Normal: X=-0.34 Y=0.56 Z=-0.76 PenetrationDepth:3.103 Actor:BP_EnemyProjectileBase_C_65 Component:Sphere BoneName:None (3 other events since notify)
+[2024.11.04-17.02.17:449][247]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.17:555][256]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.17:627][262]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Actor has been Hit
+[2024.11.04-17.02.17:627][262]LogBlueprintUserMessages: [BP_Squidzoid_C_23] 0
+[2024.11.04-17.02.17:627][262]LogBlueprintUserMessages: [BP_Squidzoid_C_23] Creature has Been Killed
+[2024.11.04-17.02.17:628][262]LogBlueprintUserMessages: [BP_AttackSpell_C_12] Ball has been Destroyed
+[2024.11.04-17.02.18:024][297]LogCharacterMovement: BP_Squidzoid_C_15 is stuck and failed to move! Velocity: X=508.11 Y=319.10 Z=0.00 Location: X=-1040.44 Y=-3984.94 Z=79.43 Normal: X=0.84 Y=-0.54 Z=0.00 PenetrationDepth:4.354 Actor:BP_EnemyProjectileBase_C_65 Component:Sphere BoneName:None (6 other events since notify)
+[2024.11.04-17.02.18:500][338]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.18:500][338]LogBlueprintUserMessages: [BP_Weapon_Component] 8
+[2024.11.04-17.02.18:657][351]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Actor has been Hit
+[2024.11.04-17.02.18:657][351]LogBlueprintUserMessages: [BP_Squidzoid_C_11] 0
+[2024.11.04-17.02.18:657][351]LogBlueprintUserMessages: [BP_Squidzoid_C_11] Creature has Been Killed
+[2024.11.04-17.02.18:658][351]LogBlueprintUserMessages: [BP_AttackSpell_C_13] Ball has been Destroyed
+[2024.11.04-17.02.18:750][359]LogBlueprintUserMessages: [BP_Weapon_Component] Ball Is Already Spawned !!!!
+[2024.11.04-17.02.19:002][381]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.19:299][407]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.19:299][407]LogBlueprintUserMessages: [BP_Weapon_Component] 7
+[2024.11.04-17.02.19:580][431]LogBlueprintUserMessages: [BP_Squidzoid_C_15] Actor has been Hit
+[2024.11.04-17.02.19:580][431]LogBlueprintUserMessages: [BP_Squidzoid_C_15] 50
+[2024.11.04-17.02.19:581][431]LogBlueprintUserMessages: [BP_AttackSpell_C_14] Ball has been Destroyed
+[2024.11.04-17.02.19:740][445]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.02.20:174][484]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.20:174][484]LogBlueprintUserMessages: [BP_Weapon_Component] 6
+[2024.11.04-17.02.20:443][507]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Actor has been Hit
+[2024.11.04-17.02.20:443][507]LogBlueprintUserMessages: [BP_Squidzoid_C_9] 50
+[2024.11.04-17.02.20:444][507]LogBlueprintUserMessages: [BP_AttackSpell_C_15] Ball has been Destroyed
+[2024.11.04-17.02.20:548][516]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.20:665][526]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.02.21:094][564]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.21:094][564]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.02.21:176][571]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Enemy Projectile Spawned
+[2024.11.04-17.02.21:177][571]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.02.21:178][571]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.21:284][580]LogBlueprintUserMessages: [BP_AttackSpell_C_16] Ball has been Destroyed
+[2024.11.04-17.02.22:041][646]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Enemy Projectile Spawned
+[2024.11.04-17.02.22:090][650]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.22:127][653]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.22:127][653]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.02.22:365][673]LogBlueprintUserMessages: [BP_Squidzoid_C_15] Actor has been Hit
+[2024.11.04-17.02.22:365][673]LogBlueprintUserMessages: [BP_Squidzoid_C_15] 0
+[2024.11.04-17.02.22:365][673]LogBlueprintUserMessages: [BP_Squidzoid_C_15] Creature has Been Killed
+[2024.11.04-17.02.22:367][673]LogBlueprintUserMessages: [BP_AttackSpell_C_17] Ball has been Destroyed
+[2024.11.04-17.02.22:581][692]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_69] PLAYER HIT
+[2024.11.04-17.02.22:639][697]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_71] PLAYER HIT
+[2024.11.04-17.02.22:843][715]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.22:843][715]LogBlueprintUserMessages: [BP_Weapon_Component] 3
+[2024.11.04-17.02.22:945][724]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_70] PLAYER HIT
+[2024.11.04-17.02.22:957][725]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_70] PLAYER HIT
+[2024.11.04-17.02.22:969][726]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_70] PLAYER HIT
+[2024.11.04-17.02.22:971][726]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.02.22:981][727]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_70] PLAYER HIT
+[2024.11.04-17.02.22:993][728]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_70] PLAYER HIT
+[2024.11.04-17.02.23:016][730]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Actor has been Hit
+[2024.11.04-17.02.23:016][730]LogBlueprintUserMessages: [BP_Squidzoid_C_17] 50
+[2024.11.04-17.02.23:018][730]LogBlueprintUserMessages: [BP_AttackSpell_C_18] Ball has been Destroyed
+[2024.11.04-17.02.23:129][740]LogBlueprintUserMessages: [BP_Weapon_Component] Ball Is Already Spawned !!!!
+[2024.11.04-17.02.23:494][771]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.23:494][771]LogBlueprintUserMessages: [BP_Weapon_Component] 2
+[2024.11.04-17.02.23:641][783]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.23:652][784]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Actor has been Hit
+[2024.11.04-17.02.23:652][784]LogBlueprintUserMessages: [BP_Squidzoid_C_9] 0
+[2024.11.04-17.02.23:653][784]LogBlueprintUserMessages: [BP_Squidzoid_C_9] Creature has Been Killed
+[2024.11.04-17.02.23:654][784]LogBlueprintUserMessages: [BP_AttackSpell_C_19] Ball has been Destroyed
+[2024.11.04-17.02.23:723][790]LogBlueprintUserMessages: [BP_Weapon_Component] Ball Is Already Spawned !!!!
+[2024.11.04-17.02.24:205][833]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.02.24:206][833]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.24:218][834]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=25.64 Y=6.10 Z=0.00 Location: X=-1044.37 Y=-3969.12 Z=79.65 Normal: X=0.23 Y=0.87 Z=-0.43 PenetrationDepth:20.692 Actor:BP_EnemyProjectileBase_C_74 Component:Sphere BoneName:None (2 other events since notify)
+[2024.11.04-17.02.24:229][835]LogCharacterMovement: BP_Squidzoid_C_13 is stuck and failed to move! Velocity: X=28.65 Y=37.67 Z=0.00 Location: X=-1044.71 Y=-4043.65 Z=77.59 Normal: X=0.04 Y=-0.93 Z=-0.36 PenetrationDepth:10.088 Actor:BP_EnemyProjectileBase_C_74 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.02.24:608][869]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.02.24:710][878]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.02.24:880][893]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Enemy Projectile Spawned
+[2024.11.04-17.02.25:190][921]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.25:281][929]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.02.26:735][ 61]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.26:967][ 82]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.26:967][ 82]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.02.27:115][ 95]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Actor has been Hit
+[2024.11.04-17.02.27:115][ 95]LogBlueprintUserMessages: [BP_Squidzoid_C_17] 0
+[2024.11.04-17.02.27:115][ 95]LogBlueprintUserMessages: [BP_Squidzoid_C_17] Creature has Been Killed
+[2024.11.04-17.02.27:116][ 95]LogBlueprintUserMessages: [BP_AttackSpell_C_20] Ball has been Destroyed
+[2024.11.04-17.02.27:748][154]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.02.27:748][154]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.02.27:749][154]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.02.27:874][165]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.02.28:129][188]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.02.28:256][199]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.02.28:257][199]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.02.28:258][199]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.02.28:282][201]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.28:496][220]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.28:496][220]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.02.28:533][223]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=207.18 Y=59.15 Z=0.00 Location: X=-611.25 Y=-4050.68 Z=78.85 Normal: X=0.14 Y=-0.97 Z=-0.19 PenetrationDepth:6.970 Actor:BP_EnemyProjectileBase_C_86 Component:Sphere BoneName:None (5 other events since notify)
+[2024.11.04-17.02.28:827][249]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Actor has been Hit
+[2024.11.04-17.02.28:827][249]LogBlueprintUserMessages: [BP_Squidzoid_C_3] 50
+[2024.11.04-17.02.28:828][249]LogBlueprintUserMessages: [BP_AttackSpell_C_21] Ball has been Destroyed
+[2024.11.04-17.02.29:818][338]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.30:265][379]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.02.30:265][379]LogBlueprintUserMessages: [BP_Weapon_Component] 3
+[2024.11.04-17.02.30:583][409]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Actor has been Hit
+[2024.11.04-17.02.30:583][409]LogBlueprintUserMessages: [BP_Squidzoid_C_33] 50
+[2024.11.04-17.02.30:584][409]LogBlueprintUserMessages: [BP_AttackSpell_C_22] Ball has been Destroyed
+[2024.11.04-17.02.31:352][481]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.32:894][630]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.34:358][773]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=76.21 Y=-595.14 Z=0.00 Location: X=679.60 Y=-6338.35 Z=92.31 Normal: X=-0.37 Y=-0.13 Z=-0.92 PenetrationDepth:28.393 Actor:BP_Boss_Projectile_C_61 Component:StaticMesh BoneName:None (9 other events since notify)
+[2024.11.04-17.02.34:398][777]LogCharacterMovement: BP_Squidzoid_C_5 is stuck and failed to move! Velocity: X=74.53 Y=-595.35 Z=0.00 Location: X=699.13 Y=-6455.71 Z=92.92 Normal: X=-0.04 Y=-1.00 Z=-0.07 PenetrationDepth:28.443 Actor:BP_Boss_Projectile_C_61 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.02.34:441][781]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.35:987][930]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.36:834][ 10]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.02.36:856][ 12]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.02.36:943][ 20]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.02.37:527][ 75]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.39:076][220]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.40:619][367]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.42:165][515]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.43:044][601]LogCharacterMovement: BP_Squidzoid_C_3 is stuck and failed to move! Velocity: X=579.45 Y=155.70 Z=0.00 Location: X=4252.47 Y=-7087.84 Z=86.37 Normal: X=-0.28 Y=-0.96 Z=-0.00 PenetrationDepth:15.415 Actor:BP_Boss_Projectile_C_66 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.02.43:702][664]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.45:038][792]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.02.45:254][813]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.45:265][814]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.02.46:790][957]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.48:329][104]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.49:877][251]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.51:415][398]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.51:639][419]LogCharacterMovement: BP_Squidzoid_C_13 is stuck and failed to move! Velocity: X=-99.98 Y=591.61 Z=0.00 Location: X=7197.03 Y=-5833.44 Z=79.65 Normal: X=0.39 Y=-0.92 Z=0.00 PenetrationDepth:0.020 Actor:BP_Boss_Projectile_C_71 Component:Sphere BoneName:None (8 other events since notify)
+[2024.11.04-17.02.52:921][539]LogCharacterMovement: BP_Squidzoid_C_25 is stuck and failed to move! Velocity: X=-582.87 Y=142.36 Z=0.00 Location: X=6884.70 Y=-4830.09 Z=77.90 Normal: X=0.68 Y=-0.63 Z=-0.39 PenetrationDepth:14.963 Actor:BP_Boss_Projectile_C_72 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.02.52:965][543]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.52:974][544]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=-135.38 Y=142.54 Z=0.00 Location: X=6970.47 Y=-4871.17 Z=79.65 Normal: X=0.47 Y=-0.88 Z=-0.00 PenetrationDepth:9.434 Actor:BP_Boss_Projectile_C_72 Component:StaticMesh BoneName:None (5 other events since notify)
+[2024.11.04-17.02.54:261][671]LogCharacterMovement: BP_Squidzoid_C_3 is stuck and failed to move! Velocity: X=-494.08 Y=340.42 Z=0.00 Location: X=6443.00 Y=-4691.37 Z=80.82 Normal: X=0.90 Y=0.43 Z=0.12 PenetrationDepth:5.498 Actor:BP_Boss_Projectile_C_73 Component:Sphere BoneName:None (4 other events since notify)
+[2024.11.04-17.02.54:301][675]LogCharacterMovement: BP_Squidzoid_C_13 is stuck and failed to move! Velocity: X=-142.47 Y=-67.95 Z=0.00 Location: X=6512.94 Y=-4740.69 Z=91.33 Normal: X=0.83 Y=0.02 Z=0.56 PenetrationDepth:2.844 Actor:BP_Boss_Projectile_C_73 Component:Sphere BoneName:None (5 other events since notify)
+[2024.11.04-17.02.54:362][681]LogCharacterMovement: BP_Squidzoid_C_5 is stuck and failed to move! Velocity: X=-39.48 Y=19.39 Z=0.00 Location: X=6580.11 Y=-4753.73 Z=80.07 Normal: X=0.38 Y=0.08 Z=0.92 PenetrationDepth:3.023 Actor:BP_Boss_Projectile_C_73 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.02.54:502][695]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.56:034][848]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.57:184][962]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.02.57:568][998]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.02.59:112][150]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.00:657][299]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.01:977][423]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.03.02:203][444]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.03:747][590]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.05:294][737]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.06:833][890]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.08:368][ 44]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.09:721][176]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.03.09:910][194]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.11:452][343]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.11:463][344]LogCharacterMovement: BP_Squidzoid_C_37 is stuck and failed to move! Velocity: X=-54.96 Y=-594.73 Z=0.00 Location: X=3524.23 Y=-4370.42 Z=78.36 Normal: X=0.29 Y=0.44 Z=-0.85 PenetrationDepth:10.566 Actor:BP_Boss_Projectile_C_85 Component:Sphere BoneName:None (3 other events since notify)
+[2024.11.04-17.03.11:496][347]LogCharacterMovement: BP_Squidzoid_C_25 is stuck and failed to move! Velocity: X=-99.29 Y=-591.73 Z=0.00 Location: X=3594.86 Y=-4411.11 Z=77.52 Normal: X=0.80 Y=0.15 Z=-0.58 PenetrationDepth:39.485 Actor:BP_Boss_Projectile_C_85 Component:Sphere BoneName:None (1 other events since notify)
+[2024.11.04-17.03.12:994][492]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.13:872][578]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.03.14:534][643]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.14:771][666]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.03.14:772][666]LogBlueprintUserMessages: [BP_Squidzoid_C_19] Enemy Projectile Spawned
+[2024.11.04-17.03.14:772][666]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.03.14:773][666]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.03.14:773][666]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.03.14:774][666]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.03.14:775][666]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.03.14:775][666]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.03.14:797][668]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.03.15:030][690]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.03.16:084][788]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.17:622][936]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.19:168][ 81]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.19:222][ 86]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.03.20:709][226]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.21:693][320]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.03.21:694][320]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.03.21:715][322]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.03.22:052][355]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.03.22:254][374]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.23:799][518]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.25:346][665]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.26:887][812]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.28:433][954]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.29:970][ 98]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.31:518][245]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.33:055][395]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.34:591][548]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.34:756][564]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.03.36:134][697]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.37:673][843]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.39:214][991]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.40:759][138]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.42:302][289]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.43:848][440]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.44:286][482]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.03.44:286][482]LogBlueprintUserMessages: [BP_Weapon_Component] 10
+[2024.11.04-17.03.45:386][592]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.45:566][610]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.03.45:566][610]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 450
+[2024.11.04-17.03.45:567][610]LogBlueprintUserMessages: [BP_AttackSpell_C_23] Ball has been Destroyed
+[2024.11.04-17.03.46:929][741]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.48:476][892]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.49:024][945]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.03.49:024][945]LogBlueprintUserMessages: [BP_Weapon_Component] 13
+[2024.11.04-17.03.50:018][ 43]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.50:252][ 66]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.03.50:365][ 77]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.03.50:365][ 77]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 400
+[2024.11.04-17.03.50:367][ 77]LogBlueprintUserMessages: [BP_AttackSpell_C_24] Ball has been Destroyed
+[2024.11.04-17.03.50:468][ 87]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.03.50:887][128]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.03.51:231][161]LogBlueprintUserMessages: [BP_Squidzoid_C_19] Enemy Projectile Spawned
+[2024.11.04-17.03.51:559][192]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.52:538][286]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Enemy Projectile Spawned
+[2024.11.04-17.03.53:098][337]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.53:513][377]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.03.53:514][377]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.03.53:535][379]LogCharacterMovement: BP_Squidzoid_C_25 is stuck and failed to move! Velocity: X=-229.00 Y=51.18 Z=0.00 Location: X=2977.51 Y=-1873.57 Z=77.80 Normal: X=0.74 Y=-0.59 Z=-0.31 PenetrationDepth:1.756 Actor:BP_EnemyProjectileBase_C_119 Component:Sphere BoneName:None (2 other events since notify)
+[2024.11.04-17.03.53:702][395]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.03.54:649][488]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.55:910][612]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.03.55:910][612]LogBlueprintUserMessages: [BP_Weapon_Component] 16
+[2024.11.04-17.03.56:190][640]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.56:402][661]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Actor has been Hit
+[2024.11.04-17.03.56:402][661]LogBlueprintUserMessages: [BP_Squidzoid_C_25] 50
+[2024.11.04-17.03.56:403][661]LogBlueprintUserMessages: [BP_AttackSpell_C_25] Ball has been Destroyed
+[2024.11.04-17.03.57:736][793]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.59:125][929]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.03.59:125][929]LogBlueprintUserMessages: [BP_Weapon_Component] 15
+[2024.11.04-17.03.59:280][944]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.03.59:321][948]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.03.59:398][955]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Actor has been Hit
+[2024.11.04-17.03.59:398][955]LogBlueprintUserMessages: [BP_Squidzoid_C_25] 0
+[2024.11.04-17.03.59:398][955]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Creature has Been Killed
+[2024.11.04-17.03.59:399][955]LogBlueprintUserMessages: [BP_AttackSpell_C_26] Ball has been Destroyed
+[2024.11.04-17.03.59:771][992]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.03.59:771][992]LogBlueprintUserMessages: [BP_Weapon_Component] 14
+[2024.11.04-17.04.00:081][ 22]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Actor has been Hit
+[2024.11.04-17.04.00:081][ 22]LogBlueprintUserMessages: [BP_Squidzoid_C_37] 50
+[2024.11.04-17.04.00:081][ 22]LogBlueprintUserMessages: [BP_AttackSpell_C_27] Ball has been Destroyed
+[2024.11.04-17.04.00:355][ 49]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.00:355][ 49]LogBlueprintUserMessages: [BP_Weapon_Component] 13
+[2024.11.04-17.04.00:643][ 77]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Actor has been Hit
+[2024.11.04-17.04.00:643][ 77]LogBlueprintUserMessages: [BP_Squidzoid_C_37] 0
+[2024.11.04-17.04.00:643][ 77]LogBlueprintUserMessages: [BP_Squidzoid_C_37] Creature has Been Killed
+[2024.11.04-17.04.00:644][ 77]LogBlueprintUserMessages: [BP_AttackSpell_C_28] Ball has been Destroyed
+[2024.11.04-17.04.00:819][ 94]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.00:840][ 96]LogBlueprintUserMessages: [BP_Weapon_Component] Ball Is Already Spawned !!!!
+[2024.11.04-17.04.01:265][137]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.01:265][137]LogBlueprintUserMessages: [BP_Weapon_Component] 12
+[2024.11.04-17.04.01:580][168]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Actor has been Hit
+[2024.11.04-17.04.01:580][168]LogBlueprintUserMessages: [BP_Squidzoid_C_43] 50
+[2024.11.04-17.04.01:581][168]LogBlueprintUserMessages: [BP_AttackSpell_C_29] Ball has been Destroyed
+[2024.11.04-17.04.01:979][207]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.01:979][207]LogBlueprintUserMessages: [BP_Weapon_Component] 11
+[2024.11.04-17.04.02:290][237]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Actor has been Hit
+[2024.11.04-17.04.02:290][237]LogBlueprintUserMessages: [BP_Squidzoid_C_43] 0
+[2024.11.04-17.04.02:290][237]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Creature has Been Killed
+[2024.11.04-17.04.02:291][237]LogBlueprintUserMessages: [BP_AttackSpell_C_30] Ball has been Destroyed
+[2024.11.04-17.04.02:352][243]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.02:637][271]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.02:637][271]LogBlueprintUserMessages: [BP_Weapon_Component] 10
+[2024.11.04-17.04.03:147][322]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Actor has been Hit
+[2024.11.04-17.04.03:147][322]LogBlueprintUserMessages: [BP_Squidzoid_C_13] 50
+[2024.11.04-17.04.03:148][322]LogBlueprintUserMessages: [BP_AttackSpell_C_31] Ball has been Destroyed
+[2024.11.04-17.04.03:297][337]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.03:297][337]LogBlueprintUserMessages: [BP_Weapon_Component] 9
+[2024.11.04-17.04.03:649][372]LogBlueprintUserMessages: [BP_Squidzoid_C_19] Actor has been Hit
+[2024.11.04-17.04.03:649][372]LogBlueprintUserMessages: [BP_Squidzoid_C_19] 50
+[2024.11.04-17.04.03:651][372]LogBlueprintUserMessages: [BP_AttackSpell_C_32] Ball has been Destroyed
+[2024.11.04-17.04.03:903][397]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.03:980][404]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.03:980][404]LogBlueprintUserMessages: [BP_Weapon_Component] 8
+[2024.11.04-17.04.04:330][438]LogBlueprintUserMessages: [BP_Squidzoid_C_19] Actor has been Hit
+[2024.11.04-17.04.04:331][438]LogBlueprintUserMessages: [BP_Squidzoid_C_19] 0
+[2024.11.04-17.04.04:331][438]LogBlueprintUserMessages: [BP_Squidzoid_C_19] Creature has Been Killed
+[2024.11.04-17.04.04:332][438]LogBlueprintUserMessages: [BP_AttackSpell_C_33] Ball has been Destroyed
+[2024.11.04-17.04.04:605][465]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.04:605][465]LogBlueprintUserMessages: [BP_Weapon_Component] 7
+[2024.11.04-17.04.04:972][502]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Actor has been Hit
+[2024.11.04-17.04.04:973][502]LogBlueprintUserMessages: [BP_Squidzoid_C_27] 0
+[2024.11.04-17.04.04:973][502]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Creature has Been Killed
+[2024.11.04-17.04.04:974][502]LogBlueprintUserMessages: [BP_AttackSpell_C_34] Ball has been Destroyed
+[2024.11.04-17.04.05:149][520]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.05:149][520]LogBlueprintUserMessages: [BP_Weapon_Component] 6
+[2024.11.04-17.04.05:445][550]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Actor has been Hit
+[2024.11.04-17.04.05:445][550]LogBlueprintUserMessages: [BP_Squidzoid_C_3] 0
+[2024.11.04-17.04.05:446][550]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Creature has Been Killed
+[2024.11.04-17.04.05:448][550]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.05:448][550]LogBlueprintUserMessages: [BP_AttackSpell_C_35] Ball has been Destroyed
+[2024.11.04-17.04.06:987][704]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.07:355][740]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.07:356][740]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.04.07:805][783]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Actor has been Hit
+[2024.11.04-17.04.07:805][783]LogBlueprintUserMessages: [BP_Squidzoid_C_7] 50
+[2024.11.04-17.04.07:805][783]LogBlueprintUserMessages: [BP_AttackSpell_C_36] Ball has been Destroyed
+[2024.11.04-17.04.08:002][802]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Enemy Projectile Spawned
+[2024.11.04-17.04.08:036][805]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.08:036][805]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.04.08:372][838]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Actor has been Hit
+[2024.11.04-17.04.08:372][838]LogBlueprintUserMessages: [BP_Squidzoid_C_5] 50
+[2024.11.04-17.04.08:372][838]LogBlueprintUserMessages: [BP_AttackSpell_C_37] Ball has been Destroyed
+[2024.11.04-17.04.08:531][854]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.08:934][893]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Capture Mode
+[2024.11.04-17.04.09:111][910]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.04.09:573][955]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.04.10:069][  4]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.10:434][ 40]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.04.11:608][156]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.13:153][307]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.14:700][458]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.14:745][462]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Capture Mode
+[2024.11.04-17.04.15:271][514]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.04.16:236][609]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.17:772][765]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.19:310][922]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.20:134][  6]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.20:134][  6]LogBlueprintUserMessages: [BP_Weapon_Component] 3
+[2024.11.04-17.04.20:853][ 80]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.21:446][142]LogBlueprintUserMessages: [BP_AttackSpell_C_38] Ball has been Destroyed
+[2024.11.04-17.04.21:614][160]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.21:614][160]LogBlueprintUserMessages: [BP_Weapon_Component] 2
+[2024.11.04-17.04.22:393][241]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.22:404][242]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Actor has been Hit
+[2024.11.04-17.04.22:404][242]LogBlueprintUserMessages: [BP_Squidzoid_C_33] 0
+[2024.11.04-17.04.22:404][242]LogBlueprintUserMessages: [BP_Squidzoid_C_33] Creature has Been Killed
+[2024.11.04-17.04.22:405][242]LogBlueprintUserMessages: [BP_AttackSpell_C_39] Ball has been Destroyed
+[2024.11.04-17.04.22:541][256]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.04.22:541][256]LogBlueprintUserMessages: [BP_Weapon_Component] 1
+[2024.11.04-17.04.23:458][350]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.04.23:459][350]LogBlueprintUserMessages: [BP_Squidzoid_C_21] 50
+[2024.11.04-17.04.23:459][350]LogBlueprintUserMessages: [BP_AttackSpell_C_40] Ball has been Destroyed
+[2024.11.04-17.04.23:932][400]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.25:471][565]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.25:684][587]LogBlueprintUserMessages: [BP_Boss_Projectile_C_133] PLAYER HIT
+[2024.11.04-17.04.27:009][723]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.28:548][879]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.30:085][ 34]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.31:626][184]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.32:724][289]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.04.32:824][298]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Enemy Projectile Spawned
+[2024.11.04-17.04.32:859][301]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.04.32:929][307]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.04.33:172][330]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.34:711][481]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.36:251][636]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.37:785][790]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.39:325][942]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.40:873][ 97]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.41:071][116]LogCharacterMovement: BP_Squidzoid_C_7 is stuck and failed to move! Velocity: X=-3.82 Y=19.50 Z=0.00 Location: X=4411.51 Y=-5310.16 Z=79.65 Normal: X=-0.98 Y=-0.17 Z=0.00 PenetrationDepth:0.000 Actor:BP_Squidzoid_C_13 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2024.11.04-17.04.42:413][251]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.42:505][260]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.04.43:958][410]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.45:499][567]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.47:034][723]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.48:581][882]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.49:043][929]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.04.50:121][ 38]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.51:660][192]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.04.52:220][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.04.52:220][242]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.04.52:221][242]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.04.52:223][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.04.52:223][242]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.04-17.04.52:223][242]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.04-17.04.52:229][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-17.04.52:240][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.04.52:258][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.04.52:259][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2024.11.04-17.04.52:259][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2024.11.04-17.04.52:261][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2024.11.04-17.04.52:272][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.11.04-17.04.52:358][243]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2024.11.04-17.04.55:153][468]Cmd: DELETE
+[2024.11.04-17.04.55:153][468]Cmd: ACTOR DELETE
+[2024.11.04-17.04.55:164][468]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.55:179][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.04-17.04.55:184][468]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.11.04-17.04.55:858][512]Cmd: DELETE
+[2024.11.04-17.04.55:859][512]Cmd: ACTOR DELETE
+[2024.11.04-17.04.55:869][512]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.55:888][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.04-17.04.55:894][512]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.11.04-17.04.56:287][541]Cmd: DELETE
+[2024.11.04-17.04.56:287][541]Cmd: ACTOR DELETE
+[2024.11.04-17.04.56:296][541]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.56:315][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.04-17.04.56:320][541]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.11.04-17.04.56:692][568]Cmd: DELETE
+[2024.11.04-17.04.56:692][568]Cmd: ACTOR DELETE
+[2024.11.04-17.04.57:182][602]Cmd: DELETE
+[2024.11.04-17.04.57:182][602]Cmd: ACTOR DELETE
+[2024.11.04-17.04.57:191][602]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.57:211][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.04-17.04.57:218][602]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.11.04-17.04.57:656][636]Cmd: DELETE
+[2024.11.04-17.04.57:656][636]Cmd: ACTOR DELETE
+[2024.11.04-17.04.57:665][636]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.57:684][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.04-17.04.57:688][636]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.11.04-17.04.58:898][734]Cmd: DELETE
+[2024.11.04-17.04.58:898][734]Cmd: ACTOR DELETE
+[2024.11.04-17.04.58:898][734]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.11.04-17.04.58:908][734]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.58:923][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.04-17.04.58:931][734]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.11.04-17.04.59:443][769]Cmd: DELETE
+[2024.11.04-17.04.59:443][769]Cmd: ACTOR DELETE
+[2024.11.04-17.04.59:454][769]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.59:469][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.11.04-17.04.59:474][769]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.11.04-17.04.59:973][805]Cmd: DELETE
+[2024.11.04-17.04.59:973][805]Cmd: ACTOR DELETE
+[2024.11.04-17.04.59:982][805]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.04.59:998][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.04-17.05.00:003][805]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.11.04-17.05.00:558][845]Cmd: DELETE
+[2024.11.04-17.05.00:558][845]Cmd: ACTOR DELETE
+[2024.11.04-17.05.00:567][845]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.05.00:586][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.04-17.05.00:592][845]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.11.04-17.05.02:146][957]Cmd: DELETE
+[2024.11.04-17.05.02:146][957]Cmd: ACTOR DELETE
+[2024.11.04-17.05.02:156][957]LogEditorActor: Deleted Actor: BP_Squidzoid_C
+[2024.11.04-17.05.02:174][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.04-17.05.02:181][957]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.11.04-17.05.03:065][ 44]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-17.05.03:077][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-17.05.03:077][ 44]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.05.03:098][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020851s)
+[2024.11.04-17.05.03:098][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.020905s)
+[2024.11.04-17.05.03:114][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.04-17.05.03:118][ 44]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.04-17.05.03:119][ 44]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2024.11.04-17.05.03:129][ 44]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2024.11.04-17.05.03:129][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-17.05.03:129][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-17.05.03:129][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-17.05.03:129][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-17.05.03:129][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-17.05.03:129][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-17.05.03:129][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-17.05.03:129][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-17.05.03:129][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-17.05.03:129][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-17.05.03:130][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-17.05.03:132][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-17.05.03:152][ 44]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hesh Evo)
+[2024.11.04-17.05.03:152][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-17.05.03:152][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-17.05.03:152][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-17.05.03:152][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2024.11.04-17.05.03:152][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2024.11.04-17.05.03:156][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2024.11.04-17.05.03:156][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2024.11.04-17.05.03:156][ 44]LogInit: FAudioDevice initialized with ID 77.
+[2024.11.04-17.05.03:156][ 44]LogAudio: Display: Audio Device (ID: 77) registered with world 'Main'.
+[2024.11.04-17.05.03:156][ 44]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2024.11.04-17.05.03:159][ 44]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-17.05.03:189][ 44]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.05-03.05.03
+[2024.11.04-17.05.03:201][ 44]LogWorld: Bringing up level for play took: 0.041875
+[2024.11.04-17.05.03:204][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2024.11.04-17.05.03:221][ 44]PIE: Server logged in
+[2024.11.04-17.05.03:222][ 44]PIE: Play in editor total start time 0.149 seconds.
+[2024.11.04-17.05.04:280][134]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.05:827][282]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.06:519][343]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.05.07:373][422]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.08:917][568]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.08:999][576]LogBlueprintUserMessages: [BP_Squidzoid_C_35] DAMAGE ACTOR !!!
+[2024.11.04-17.05.10:063][675]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Enemy Projectile Spawned
+[2024.11.04-17.05.10:479][711]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.11:011][758]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.11:011][758]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.05.11:351][789]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Actor has been Hit
+[2024.11.04-17.05.11:351][789]LogBlueprintUserMessages: [BP_Squidzoid_C_35] 50
+[2024.11.04-17.05.11:352][789]LogBlueprintUserMessages: [BP_AttackSpell_C_0] Ball has been Destroyed
+[2024.11.04-17.05.11:822][834]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.11:822][834]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.05.12:034][853]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.12:356][883]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Actor has been Hit
+[2024.11.04-17.05.12:356][883]LogBlueprintUserMessages: [BP_Squidzoid_C_35] 0
+[2024.11.04-17.05.12:356][883]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Creature has Been Killed
+[2024.11.04-17.05.12:357][883]LogBlueprintUserMessages: [BP_AttackSpell_C_1] Ball has been Destroyed
+[2024.11.04-17.05.13:578][995]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.15:124][137]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.16:670][283]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.17:045][317]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.05.18:208][423]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.19:757][565]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.21:124][692]LogCharacterMovement: BP_Squidzoid_C_13 is stuck and failed to move! Velocity: X=-593.05 Y=-91.03 Z=0.00 Location: X=4929.62 Y=-7965.43 Z=77.71 Normal: X=0.58 Y=-0.57 Z=-0.59 PenetrationDepth:57.835 Actor:BP_Boss_Projectile_C_9 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.05.21:304][709]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.22:842][853]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.24:383][999]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.25:932][146]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.27:160][261]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.05.27:474][290]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.29:022][435]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.30:562][581]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.32:105][727]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.32:816][794]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.05.33:643][872]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.34:211][925]LogCharacterMovement: BP_Squidzoid_C_13 is stuck and failed to move! Velocity: X=-512.45 Y=305.01 Z=0.00 Location: X=-1480.01 Y=-7195.47 Z=79.65 Normal: X=-0.07 Y=-1.00 Z=0.00 PenetrationDepth:2.439 Actor:BP_Boss_Projectile_C_18 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.05.35:182][ 16]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.36:717][159]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.38:265][300]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.38:440][316]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.38:440][316]LogBlueprintUserMessages: [BP_Weapon_Component] 11
+[2024.11.04-17.05.38:719][342]LogBlueprintUserMessages: [BP_AttackSpell_C_2] Ball has been Destroyed
+[2024.11.04-17.05.39:218][391]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.39:218][391]LogBlueprintUserMessages: [BP_Weapon_Component] 10
+[2024.11.04-17.05.39:498][418]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Actor has been Hit
+[2024.11.04-17.05.39:498][418]LogBlueprintUserMessages: [BP_Squidzoid_C_27] 50
+[2024.11.04-17.05.39:499][418]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Actor has been Hit
+[2024.11.04-17.05.39:499][418]LogBlueprintUserMessages: [BP_Squidzoid_C_27] 0
+[2024.11.04-17.05.39:500][418]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Creature has Been Killed
+[2024.11.04-17.05.39:501][418]LogBlueprintUserMessages: [BP_AttackSpell_C_3] Ball has been Destroyed
+[2024.11.04-17.05.39:801][448]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.39:849][452]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.39:849][452]LogBlueprintUserMessages: [BP_Weapon_Component] 9
+[2024.11.04-17.05.40:051][471]LogBlueprintUserMessages: [BP_Weapon_Component] Ball Is Already Spawned !!!!
+[2024.11.04-17.05.40:145][480]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Actor has been Hit
+[2024.11.04-17.05.40:145][480]LogBlueprintUserMessages: [BP_Squidzoid_C_13] 50
+[2024.11.04-17.05.40:146][480]LogBlueprintUserMessages: [BP_AttackSpell_C_4] Ball has been Destroyed
+[2024.11.04-17.05.40:572][521]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.40:572][521]LogBlueprintUserMessages: [BP_Weapon_Component] 8
+[2024.11.04-17.05.40:857][547]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Actor has been Hit
+[2024.11.04-17.05.40:857][547]LogBlueprintUserMessages: [BP_Squidzoid_C_13] 0
+[2024.11.04-17.05.40:858][547]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Creature has Been Killed
+[2024.11.04-17.05.40:859][547]LogBlueprintUserMessages: [BP_AttackSpell_C_5] Ball has been Destroyed
+[2024.11.04-17.05.41:296][588]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.41:296][588]LogBlueprintUserMessages: [BP_Weapon_Component] 7
+[2024.11.04-17.05.41:347][592]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.41:671][622]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Actor has been Hit
+[2024.11.04-17.05.41:671][622]LogBlueprintUserMessages: [BP_Squidzoid_C_25] 50
+[2024.11.04-17.05.41:671][622]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Actor has been Hit
+[2024.11.04-17.05.41:671][622]LogBlueprintUserMessages: [BP_Squidzoid_C_25] 0
+[2024.11.04-17.05.41:671][622]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Creature has Been Killed
+[2024.11.04-17.05.41:673][622]LogBlueprintUserMessages: [BP_AttackSpell_C_6] Ball has been Destroyed
+[2024.11.04-17.05.41:975][651]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.41:975][651]LogBlueprintUserMessages: [BP_Weapon_Component] 6
+[2024.11.04-17.05.42:349][687]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Actor has been Hit
+[2024.11.04-17.05.42:349][687]LogBlueprintUserMessages: [BP_Squidzoid_C_5] 50
+[2024.11.04-17.05.42:350][687]LogBlueprintUserMessages: [BP_AttackSpell_C_7] Ball has been Destroyed
+[2024.11.04-17.05.42:634][714]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.42:635][714]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.05.42:885][737]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.42:974][745]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Actor has been Hit
+[2024.11.04-17.05.42:974][745]LogBlueprintUserMessages: [BP_Squidzoid_C_5] 0
+[2024.11.04-17.05.42:974][745]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Creature has Been Killed
+[2024.11.04-17.05.42:976][745]LogBlueprintUserMessages: [BP_AttackSpell_C_8] Ball has been Destroyed
+[2024.11.04-17.05.43:251][771]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.43:251][771]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.05.43:624][806]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Actor has been Hit
+[2024.11.04-17.05.43:624][806]LogBlueprintUserMessages: [BP_Squidzoid_C_3] 50
+[2024.11.04-17.05.43:626][806]LogBlueprintUserMessages: [BP_AttackSpell_C_9] Ball has been Destroyed
+[2024.11.04-17.05.43:814][824]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.43:814][824]LogBlueprintUserMessages: [BP_Weapon_Component] 3
+[2024.11.04-17.05.44:192][859]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Actor has been Hit
+[2024.11.04-17.05.44:192][859]LogBlueprintUserMessages: [BP_Squidzoid_C_3] 0
+[2024.11.04-17.05.44:192][859]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Creature has Been Killed
+[2024.11.04-17.05.44:194][859]LogBlueprintUserMessages: [BP_AttackSpell_C_10] Ball has been Destroyed
+[2024.11.04-17.05.44:394][878]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.05.44:394][878]LogBlueprintUserMessages: [BP_Weapon_Component] 6
+[2024.11.04-17.05.44:434][881]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.44:808][916]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Actor has been Hit
+[2024.11.04-17.05.44:808][916]LogBlueprintUserMessages: [BP_Squidzoid_C_43] 50
+[2024.11.04-17.05.44:809][916]LogBlueprintUserMessages: [BP_AttackSpell_C_11] Ball has been Destroyed
+[2024.11.04-17.05.45:973][ 28]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.47:517][180]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.48:461][272]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.05.49:057][328]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.50:609][478]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.52:159][629]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.53:705][777]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.55:245][932]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.56:794][ 84]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.58:334][234]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.05.59:874][385]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.01:417][538]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.02:954][695]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.04:504][853]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.06:044][ 10]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.07:580][164]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.09:113][316]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.10:654][472]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.11:224][529]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.11:224][529]LogBlueprintUserMessages: [BP_Weapon_Component] 13
+[2024.11.04-17.06.12:074][615]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.12:074][615]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 450
+[2024.11.04-17.06.12:075][615]LogBlueprintUserMessages: [BP_AttackSpell_C_12] Ball has been Destroyed
+[2024.11.04-17.06.12:197][628]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.12:256][634]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.12:257][634]LogBlueprintUserMessages: [BP_Weapon_Component] 12
+[2024.11.04-17.06.12:259][634]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.12:660][676]LogBlueprintUserMessages: [BP_Weapon_Component] Ball Is Already Spawned !!!!
+[2024.11.04-17.06.13:037][715]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.13:037][715]LogBlueprintUserMessages: [BP_Weapon_Component] 11
+[2024.11.04-17.06.13:068][718]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.13:068][718]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 400
+[2024.11.04-17.06.13:069][718]LogBlueprintUserMessages: [BP_AttackSpell_C_13] Ball has been Destroyed
+[2024.11.04-17.06.13:733][787]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.13:861][799]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.13:861][799]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 350
+[2024.11.04-17.06.13:862][799]LogBlueprintUserMessages: [BP_AttackSpell_C_14] Ball has been Destroyed
+[2024.11.04-17.06.15:281][938]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.15:861][996]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.16:631][ 71]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.16:821][ 89]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.18:364][240]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.19:908][387]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.21:459][539]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.22:677][658]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.22:994][688]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.24:543][835]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.26:081][981]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.27:508][116]LogBlueprintUserMessages: [BP_Boss_Projectile_C_53] PLAYER HIT
+[2024.11.04-17.06.27:617][126]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.27:627][127]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.27:923][154]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.28:424][201]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.28:425][201]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.28:759][232]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_10] PLAYER HIT
+[2024.11.04-17.06.29:018][257]LogBlueprintUserMessages: [BP_Boss_Projectile_C_54] PLAYER HIT
+[2024.11.04-17.06.29:168][271]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.29:341][287]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_12] PLAYER HIT
+[2024.11.04-17.06.29:478][300]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_11] PLAYER HIT
+[2024.11.04-17.06.29:884][340]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.30:209][371]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.30:699][418]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.30:700][418]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.30:711][419]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.32:159][558]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_17] PLAYER HIT
+[2024.11.04-17.06.32:159][558]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.32:205][562]LogBlueprintUserMessages: [BP_Squidzoid_C_21] DAMAGE ACTOR !!!
+[2024.11.04-17.06.32:257][567]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.32:484][589]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_18] PLAYER HIT
+[2024.11.04-17.06.32:484][589]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.32:977][637]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_19] PLAYER HIT
+[2024.11.04-17.06.32:977][637]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.32:978][637]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_20] PLAYER HIT
+[2024.11.04-17.06.32:978][637]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.33:411][680]LogBlueprintUserMessages: [BP_Boss_Projectile_C_57] PLAYER HIT
+[2024.11.04-17.06.33:807][719]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.34:423][778]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.34:423][778]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_21] PLAYER HIT
+[2024.11.04-17.06.34:434][779]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_21] PLAYER HIT
+[2024.11.04-17.06.34:444][780]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_21] PLAYER HIT
+[2024.11.04-17.06.34:464][781]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_21] PLAYER HIT
+[2024.11.04-17.06.34:474][782]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_21] PLAYER HIT
+[2024.11.04-17.06.34:484][783]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_21] PLAYER HIT
+[2024.11.04-17.06.34:763][810]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.35:255][857]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.35:255][857]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.35:344][865]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.36:694][992]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.36:891][ 10]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.37:043][ 24]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.37:520][ 69]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.37:521][ 69]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.38:152][129]LogCharacterMovement: BP_Squidzoid_C_43 is stuck and failed to move! Velocity: X=69.26 Y=-595.99 Z=0.00 Location: X=-1128.34 Y=-3835.41 Z=77.65 Normal: X=0.06 Y=0.23 Z=-0.97 PenetrationDepth:27.080 Actor:BP_Boss_Projectile_C_60 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.06.38:436][156]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.39:977][304]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.40:109][316]LogBlueprintUserMessages: [BP_Squidzoid_C_21] DAMAGE ACTOR !!!
+[2024.11.04-17.06.40:751][379]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.40:977][402]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.41:094][414]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.41:095][414]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.41:520][458]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.41:970][505]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.41:970][505]LogBlueprintUserMessages: [BP_Weapon_Component] 22
+[2024.11.04-17.06.42:595][571]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.42:595][571]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 300
+[2024.11.04-17.06.42:595][571]LogBlueprintUserMessages: [BP_AttackSpell_C_15] Ball has been Destroyed
+[2024.11.04-17.06.42:682][580]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.42:683][580]LogBlueprintUserMessages: [BP_Weapon_Component] 21
+[2024.11.04-17.06.43:058][620]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.43:239][639]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.43:240][639]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 250
+[2024.11.04-17.06.43:240][639]LogBlueprintUserMessages: [BP_AttackSpell_C_16] Ball has been Destroyed
+[2024.11.04-17.06.44:029][723]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.44:245][745]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.44:599][781]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.45:045][828]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.46:141][941]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.47:683][ 98]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.49:180][254]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.49:180][254]LogBlueprintUserMessages: [BP_Weapon_Component] 20
+[2024.11.04-17.06.49:223][258]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.50:026][341]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.50:026][341]LogBlueprintUserMessages: [BP_Weapon_Component] 19
+[2024.11.04-17.06.50:058][344]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.50:058][344]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 200
+[2024.11.04-17.06.50:059][344]LogBlueprintUserMessages: [BP_AttackSpell_C_17] Ball has been Destroyed
+[2024.11.04-17.06.50:634][403]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.50:635][403]LogBlueprintUserMessages: [BP_Weapon_Component] 18
+[2024.11.04-17.06.50:763][416]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.51:042][445]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.51:042][445]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 150
+[2024.11.04-17.06.51:043][445]LogBlueprintUserMessages: [BP_AttackSpell_C_18] Ball has been Destroyed
+[2024.11.04-17.06.51:207][462]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.51:207][462]LogBlueprintUserMessages: [BP_Weapon_Component] 17
+[2024.11.04-17.06.51:748][518]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.51:748][518]LogBlueprintUserMessages: [BP_Weapon_Component] 16
+[2024.11.04-17.06.51:750][518]LogBlueprintUserMessages: [BP_AttackSpell_C_20] Ball has been Destroyed
+[2024.11.04-17.06.51:769][520]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.51:769][520]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 100
+[2024.11.04-17.06.51:770][520]LogBlueprintUserMessages: [BP_AttackSpell_C_19] Ball has been Destroyed
+[2024.11.04-17.06.52:304][576]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.52:406][586]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.52:406][586]LogBlueprintUserMessages: [BP_Weapon_Component] 15
+[2024.11.04-17.06.52:790][626]LogBlueprintUserMessages: [BP_AttackSpell_C_21] Ball has been Destroyed
+[2024.11.04-17.06.53:112][660]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.53:112][660]LogBlueprintUserMessages: [BP_Weapon_Component] 14
+[2024.11.04-17.06.53:840][732]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.06.53:871][735]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.53:871][735]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 50
+[2024.11.04-17.06.53:872][735]LogBlueprintUserMessages: [BP_AttackSpell_C_22] Ball has been Destroyed
+[2024.11.04-17.06.54:454][796]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Actor has been Hit
+[2024.11.04-17.06.54:454][796]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] 0
+[2024.11.04-17.06.54:454][796]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] Creature has Been Killed
+[2024.11.04-17.06.54:457][796]LogBlueprintUserMessages: [BP_AttackSpell_C_23] Ball has been Destroyed
+[2024.11.04-17.06.54:504][801]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.06.54:504][801]LogBlueprintUserMessages: [BP_Weapon_Component] 13
+[2024.11.04-17.06.54:924][845]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.55:077][861]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.55:541][909]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Enemy Projectile Spawned
+[2024.11.04-17.06.55:988][954]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.06.57:190][ 79]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.06.57:345][ 95]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.06.57:631][125]LogCharacterMovement: BP_Squidzoid_C_39 is stuck and failed to move! Velocity: X=10.96 Y=-326.28 Z=0.00 Location: X=3465.92 Y=-3669.38 Z=109.73 Normal: X=-0.39 Y=-0.92 Z=-0.00 PenetrationDepth:14.296 Actor:BP_EnemyProjectileBase_C_41 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.06.58:420][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.06.58:420][205]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.06.58:421][205]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.06.58:423][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.06.58:423][205]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.04-17.06.58:423][205]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.04-17.06.58:431][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-17.06.58:437][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.06.58:454][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.06.58:455][205]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2024.11.04-17.06.58:455][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.11.04-17.06.58:458][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2024.11.04-17.06.58:468][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.04-17.06.58:531][206]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2024.11.04-17.07.58:212][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.11.04-17.07.58:219][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.07.58:284][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.07.58:315][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.04-17.07.58:391][329]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.07.58:391][329]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Main52EBE3D7432DA0E7C9FF12909EA4B0CB.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.07.58:398][329]LogFileHelpers: Saving map 'Main' took 0.115
+[2024.11.04-17.07.58:415][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.766 ms (total: 28.8 sec)
+[2024.11.04-17.07.58:482][329]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.07.58:482][329]LogContentValidation: Enabled validators:
+[2024.11.04-17.07.58:482][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.07.58:482][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.07.58:482][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.07.58:482][329]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.07.58:483][329]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.09.56:015][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.04-17.11.10:907][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.04-17.11.10:921][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.11.10:980][ 60]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.04-17.11.10:990][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.04-17.11.10:990][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.04-17.11.11:010][ 60]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.04-17.11.11:011][ 60]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_FirstPersonCharacter2F51C6EA4CAA1AF720CBC4BD79A872CB.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.04-17.11.11:029][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.443 ms (total: 28.9 sec)
+[2024.11.04-17.11.11:098][ 60]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.11.11:098][ 60]LogContentValidation: Enabled validators:
+[2024.11.04-17.11.11:098][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.11.11:098][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.11.11:098][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.11.11:098][ 60]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.04-17.11.11:098][ 60]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.04-17.11.16:633][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.04-17.11.16:639][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.11.16:706][551]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.04-17.11.16:715][551]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.04-17.11.16:715][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.04-17.11.16:734][551]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.04-17.11.16:735][551]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_FirstPersonCharacterF14B9AC547ADAEC90F02598075486E40.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.04-17.11.16:750][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.761 ms (total: 29.0 sec)
+[2024.11.04-17.11.16:811][551]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.11.16:811][551]LogContentValidation: Enabled validators:
+[2024.11.04-17.11.16:811][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.11.16:811][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.11.16:811][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.11.16:811][551]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.04-17.11.16:811][551]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.04-17.11.31:684][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.04-17.11.52:647][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.11.52:713][513]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.04-17.11.52:722][513]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.04-17.11.52:722][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.04-17.11.52:742][513]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.04-17.11.52:743][513]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_FirstPersonCharacter2D762FCC4884005A4224998AEC2582C8.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.04-17.11.52:756][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.281 ms (total: 29.1 sec)
+[2024.11.04-17.11.52:811][513]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.11.52:811][513]LogContentValidation: Enabled validators:
+[2024.11.04-17.11.52:811][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.11.52:811][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.11.52:811][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.11.52:811][513]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.04-17.11.52:811][513]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.04-17.12.11:946][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.11.04-17.12.11:957][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.12.12:008][153]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.04-17.12.12:018][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.04-17.12.12:018][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.04-17.12.12:040][153]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.04-17.12.12:041][153]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_FirstPersonCharacterFC7A066F48158E7FF16329B3EE1AE8AF.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.04-17.12.12:053][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.448 ms (total: 29.2 sec)
+[2024.11.04-17.12.12:107][153]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.12.12:108][153]LogContentValidation: Enabled validators:
+[2024.11.04-17.12.12:108][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.12.12:108][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.12.12:108][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.12.12:108][153]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.04-17.12.12:108][153]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.04-17.13.04:568][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.04-17.13.04:577][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.13.04:643][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2024.11.04-17.13.04:643][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2024.11.04-17.13.04:663][692]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.11.04-17.13.04:664][692]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_Weapon_Component7504F07A46182A09E82C44BA99CD5D91.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.11.04-17.13.04:677][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.591 ms (total: 29.3 sec)
+[2024.11.04-17.13.04:745][692]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.13.04:745][692]LogContentValidation: Enabled validators:
+[2024.11.04-17.13.04:745][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.13.04:745][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.13.04:745][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.13.04:745][692]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.11.04-17.13.04:745][692]AssetCheck: /Game/FirstPerson/Blueprints/BP_Weapon_Component Validating asset
+[2024.11.04-17.13.07:425][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.13.07:480][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2024.11.04-17.13.07:480][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2024.11.04-17.13.07:499][  2]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.11.04-17.13.07:500][  2]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_Weapon_Component8244C40A444BC49F4063B285C50BAFFA.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.11.04-17.13.07:513][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.496 ms (total: 29.4 sec)
+[2024.11.04-17.13.07:590][  2]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.13.07:590][  2]LogContentValidation: Enabled validators:
+[2024.11.04-17.13.07:590][  2]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.13.07:590][  2]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.13.07:590][  2]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.13.07:590][  2]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.11.04-17.13.07:591][  2]AssetCheck: /Game/FirstPerson/Blueprints/BP_Weapon_Component Validating asset
+[2024.11.04-17.14.03:587][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.14.03:643][893]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2024.11.04-17.14.03:643][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2024.11.04-17.14.03:663][893]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.11.04-17.14.03:664][893]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_Weapon_Component3566424D4669D5AAA30EBCB4E2130A23.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.11.04-17.14.03:677][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.118 ms (total: 29.5 sec)
+[2024.11.04-17.14.03:743][893]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.14.03:743][893]LogContentValidation: Enabled validators:
+[2024.11.04-17.14.03:743][893]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.14.03:743][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.14.03:743][893]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.14.03:743][893]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.11.04-17.14.03:743][893]AssetCheck: /Game/FirstPerson/Blueprints/BP_Weapon_Component Validating asset
+[2024.11.04-17.14.07:602][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.14.07:662][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2024.11.04-17.14.07:662][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2024.11.04-17.14.07:683][316]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2024.11.04-17.14.07:684][316]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_Weapon_Component0F18FAC841DFE1BA2F20AA9ACBF2F9AA.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2024.11.04-17.14.07:695][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.265 ms (total: 29.6 sec)
+[2024.11.04-17.14.07:763][316]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.14.07:763][316]LogContentValidation: Enabled validators:
+[2024.11.04-17.14.07:763][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.14.07:763][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.14.07:763][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.14.07:763][316]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.11.04-17.14.07:763][316]AssetCheck: /Game/FirstPerson/Blueprints/BP_Weapon_Component Validating asset
+[2024.11.04-17.14.08:461][393]LogBlueprint: Error: [AssetLog] C:\Users\s5294724\Documents\GitHub\GFSGameJam2024\GameJam_Hens\Content\FirstPerson\Blueprints\BP_Weapon_Component.uasset: [Compiler] The property associated with  Souls  could not be found in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2024.11.04-17.14.08:461][393]LogBlueprint: Error: [AssetLog] C:\Users\s5294724\Documents\GitHub\GFSGameJam2024\GameJam_Hens\Content\FirstPerson\Blueprints\BP_Weapon_Component.uasset: [Compiler] The property associated with  Souls  could not be found in '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C'
+[2024.11.04-17.14.08:497][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.04-17.14.18:035][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.04-17.14.19:607][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.04-17.14.21:688][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-17.14.21:702][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-17.14.21:702][687]BlueprintLog: Warning: Blueprint failed to compile:  BP_Weapon_Component
+[2024.11.04-17.14.23:743][687]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.11.04-17.14.23:817][687]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.14.23:839][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021570s)
+[2024.11.04-17.14.23:839][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.021631s)
+[2024.11.04-17.14.23:852][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.04-17.14.23:855][687]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.04-17.14.23:856][687]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2024.11.04-17.14.23:870][687]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2024.11.04-17.14.23:870][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-17.14.23:870][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-17.14.23:870][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-17.14.23:870][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-17.14.23:870][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-17.14.23:870][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-17.14.23:870][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-17.14.23:870][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-17.14.23:870][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-17.14.23:870][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-17.14.23:870][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-17.14.23:872][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-17.14.23:894][687]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hesh Evo)
+[2024.11.04-17.14.23:894][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-17.14.23:894][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-17.14.23:894][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-17.14.23:894][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2024.11.04-17.14.23:894][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2024.11.04-17.14.23:899][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2024.11.04-17.14.23:899][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2024.11.04-17.14.23:899][687]LogInit: FAudioDevice initialized with ID 78.
+[2024.11.04-17.14.23:899][687]LogAudio: Display: Audio Device (ID: 78) registered with world 'Main'.
+[2024.11.04-17.14.23:899][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2024.11.04-17.14.23:902][687]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-17.14.23:933][687]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.05-03.14.23
+[2024.11.04-17.14.23:945][687]LogWorld: Bringing up level for play took: 0.042687
+[2024.11.04-17.14.23:949][687]LogOnline: OSS: Created online subsystem instance for: :Context_131
+[2024.11.04-17.14.23:968][687]PIE: Server logged in
+[2024.11.04-17.14.23:969][687]PIE: Play in editor total start time 2.273 seconds.
+[2024.11.04-17.14.25:023][758]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.14.26:573][902]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.14.27:921][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.14.27:921][ 21]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.14.27:922][ 21]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.14.27:925][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.14.27:925][ 21]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.04-17.14.27:925][ 21]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.04-17.14.27:932][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-17.14.27:937][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.14.27:955][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.14.27:957][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2024.11.04-17.14.27:958][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2024.11.04-17.14.27:959][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2024.11.04-17.14.27:973][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.11.04-17.14.28:038][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2024.11.04-17.14.33:191][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.04-17.14.34:605][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.04-17.14.39:520][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.04-17.14.40:304][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.04-17.14.52:365][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-17.14.52:378][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-17.14.52:417][128]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.14.52:440][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022735s)
+[2024.11.04-17.14.52:440][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.022788s)
+[2024.11.04-17.14.52:455][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.04-17.14.52:461][128]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.04-17.14.52:462][128]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2024.11.04-17.14.52:473][128]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2024.11.04-17.14.52:473][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-17.14.52:473][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-17.14.52:473][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-17.14.52:473][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-17.14.52:473][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-17.14.52:473][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-17.14.52:473][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-17.14.52:473][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-17.14.52:473][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-17.14.52:473][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-17.14.52:473][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-17.14.52:475][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-17.14.52:497][128]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hesh Evo)
+[2024.11.04-17.14.52:497][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-17.14.52:497][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-17.14.52:497][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-17.14.52:497][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2024.11.04-17.14.52:497][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2024.11.04-17.14.52:500][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2024.11.04-17.14.52:500][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2024.11.04-17.14.52:500][128]LogInit: FAudioDevice initialized with ID 79.
+[2024.11.04-17.14.52:500][128]LogAudio: Display: Audio Device (ID: 79) registered with world 'Main'.
+[2024.11.04-17.14.52:500][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2024.11.04-17.14.52:504][128]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-17.14.52:535][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.11.05-03.14.52
+[2024.11.04-17.14.52:547][128]LogWorld: Bringing up level for play took: 0.042762
+[2024.11.04-17.14.52:549][128]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2024.11.04-17.14.52:567][128]PIE: Server logged in
+[2024.11.04-17.14.52:569][128]PIE: Play in editor total start time 0.197 seconds.
+[2024.11.04-17.14.53:632][203]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.14.55:176][350]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.14.56:480][468]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.14.56:712][489]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.14.57:556][567]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.14.57:556][567]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.14.58:254][630]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.14.58:279][632]LogBlueprintUserMessages: [BP_AttackSpell_C_0] Ball has been Destroyed
+[2024.11.04-17.14.59:803][768]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.14.59:939][780]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.14.59:939][780]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.15.00:002][785]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Enemy Projectile Spawned
+[2024.11.04-17.15.00:003][785]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Actor has been Hit
+[2024.11.04-17.15.00:003][785]LogBlueprintUserMessages: [BP_Squidzoid_C_35] 50
+[2024.11.04-17.15.00:004][785]LogBlueprintUserMessages: [BP_AttackSpell_C_1] Ball has been Destroyed
+[2024.11.04-17.15.00:705][845]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.00:705][845]LogBlueprintUserMessages: [BP_Weapon_Component] 3
+[2024.11.04-17.15.00:906][862]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Actor has been Hit
+[2024.11.04-17.15.00:906][862]LogBlueprintUserMessages: [BP_Squidzoid_C_35] 0
+[2024.11.04-17.15.00:906][862]LogBlueprintUserMessages: [BP_Squidzoid_C_35] Creature has Been Killed
+[2024.11.04-17.15.00:907][862]LogBlueprintUserMessages: [BP_AttackSpell_C_2] Ball has been Destroyed
+[2024.11.04-17.15.01:352][901]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.01:762][936]LogBlueprintUserMessages: [BP_Squidzoid_C_43] DAMAGE ACTOR !!!
+[2024.11.04-17.15.02:632][  8]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.15.02:899][ 30]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.02:921][ 32]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.02:921][ 32]LogBlueprintUserMessages: [BP_Weapon_Component] 2
+[2024.11.04-17.15.02:962][ 35]LogBlueprintUserMessages: [BP_EnemyProjectileBase_C_1] PLAYER HIT
+[2024.11.04-17.15.03:037][ 41]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Actor has been Hit
+[2024.11.04-17.15.03:037][ 41]LogBlueprintUserMessages: [BP_Squidzoid_C_39] 50
+[2024.11.04-17.15.03:039][ 41]LogBlueprintUserMessages: [BP_AttackSpell_C_3] Ball has been Destroyed
+[2024.11.04-17.15.03:809][107]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.03:809][107]LogBlueprintUserMessages: [BP_Weapon_Component] 1
+[2024.11.04-17.15.04:128][135]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Actor has been Hit
+[2024.11.04-17.15.04:128][135]LogBlueprintUserMessages: [BP_Squidzoid_C_39] 0
+[2024.11.04-17.15.04:129][135]LogBlueprintUserMessages: [BP_Squidzoid_C_39] Creature has Been Killed
+[2024.11.04-17.15.04:130][135]LogBlueprintUserMessages: [BP_AttackSpell_C_4] Ball has been Destroyed
+[2024.11.04-17.15.04:454][162]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.04:753][187]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Capture Mode
+[2024.11.04-17.15.04:924][201]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.15.05:910][287]LogBlueprintUserMessages: [BP_Squidzoid_C_3] DAMAGE ACTOR !!!
+[2024.11.04-17.15.06:009][296]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.06:773][364]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.15.07:266][407]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.15.07:288][409]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.15.07:560][432]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.07:871][459]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.15.09:104][567]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.10:654][698]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.11:529][773]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.15.11:530][773]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.15.12:207][829]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.12:394][844]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.15.12:419][846]LogCharacterMovement: BP_Squidzoid_C_43 is stuck and failed to move! Velocity: X=0.87 Y=-26.42 Z=0.00 Location: X=7202.87 Y=-5924.72 Z=79.65 Normal: X=0.97 Y=-0.24 Z=0.00 PenetrationDepth:18.635 Actor:BP_Boss_Projectile_C_10 Component:Sphere BoneName:None (0 other events since notify)
+[2024.11.04-17.15.13:754][961]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.15:033][ 71]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Capture Mode
+[2024.11.04-17.15.15:270][ 91]LogCharacterMovement: BP_Squidzoid_C_43 is stuck and failed to move! Velocity: X=-239.74 Y=-160.72 Z=0.00 Location: X=6193.74 Y=-6665.09 Z=79.65 Normal: X=0.56 Y=0.81 Z=0.16 PenetrationDepth:30.045 Actor:BP_Boss_Projectile_C_12 Component:StaticMesh BoneName:None (0 other events since notify)
+[2024.11.04-17.15.15:307][ 94]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.16:862][226]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.17:121][248]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.15.18:406][357]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.18:611][374]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.15.18:613][374]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.15.18:613][374]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.15.18:614][374]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.15.19:398][440]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.15.19:847][478]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.15.19:958][487]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.21:513][619]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.23:065][758]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.24:265][859]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.15.24:399][870]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.15.24:617][888]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.24:666][892]LogBlueprintUserMessages: [BP_Squidzoid_C_3] Enemy Projectile Spawned
+[2024.11.04-17.15.25:192][937]LogBlueprintUserMessages: [BP_Squidzoid_C_5] Enemy Projectile Spawned
+[2024.11.04-17.15.25:192][937]LogBlueprintUserMessages: [BP_Squidzoid_C_7] Enemy Projectile Spawned
+[2024.11.04-17.15.25:193][937]LogBlueprintUserMessages: [BP_Squidzoid_C_43] Enemy Projectile Spawned
+[2024.11.04-17.15.26:164][ 23]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.26:427][ 46]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.26:427][ 46]LogBlueprintUserMessages: [BP_Weapon_Component] 8
+[2024.11.04-17.15.26:745][ 73]LogBlueprintUserMessages: [BP_AttackSpell_C_5] Ball has been Destroyed
+[2024.11.04-17.15.27:097][104]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.27:097][104]LogBlueprintUserMessages: [BP_Weapon_Component] 7
+[2024.11.04-17.15.27:341][125]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Actor has been Hit
+[2024.11.04-17.15.27:341][125]LogBlueprintUserMessages: [BP_Squidzoid_C_25] 50
+[2024.11.04-17.15.27:342][125]LogBlueprintUserMessages: [BP_AttackSpell_C_6] Ball has been Destroyed
+[2024.11.04-17.15.27:689][156]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.27:689][156]LogBlueprintUserMessages: [BP_Weapon_Component] 6
+[2024.11.04-17.15.27:692][156]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Enemy Projectile Spawned
+[2024.11.04-17.15.27:718][158]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.27:801][165]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Enemy Projectile Spawned
+[2024.11.04-17.15.27:983][181]LogBlueprintUserMessages: [BP_AttackSpell_C_7] Ball has been Destroyed
+[2024.11.04-17.15.28:376][216]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.28:377][216]LogBlueprintUserMessages: [BP_Weapon_Component] 5
+[2024.11.04-17.15.28:731][246]LogBlueprintUserMessages: [BP_AttackSpell_C_8] Ball has been Destroyed
+[2024.11.04-17.15.28:832][255]LogCharacterMovement: BP_Squidzoid_C_3 is stuck and failed to move! Velocity: X=-4.55 Y=23.20 Z=0.00 Location: X=4351.88 Y=-5320.70 Z=79.65 Normal: X=0.98 Y=0.17 Z=0.00 PenetrationDepth:0.000 Actor:BP_Squidzoid_C_7 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2024.11.04-17.15.29:260][291]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.29:509][312]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.29:509][312]LogBlueprintUserMessages: [BP_Weapon_Component] 4
+[2024.11.04-17.15.29:679][326]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Actor has been Hit
+[2024.11.04-17.15.29:679][326]LogBlueprintUserMessages: [BP_Squidzoid_C_25] 0
+[2024.11.04-17.15.29:679][326]LogBlueprintUserMessages: [BP_Squidzoid_C_25] Creature has Been Killed
+[2024.11.04-17.15.29:680][326]LogBlueprintUserMessages: [BP_AttackSpell_C_9] Ball has been Destroyed
+[2024.11.04-17.15.30:149][367]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.30:149][367]LogBlueprintUserMessages: [BP_Weapon_Component] 3
+[2024.11.04-17.15.30:301][380]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.15.30:301][380]LogBlueprintUserMessages: [BP_Squidzoid_C_21] 50
+[2024.11.04-17.15.30:302][380]LogBlueprintUserMessages: [BP_AttackSpell_C_10] Ball has been Destroyed
+[2024.11.04-17.15.30:778][422]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.30:778][422]LogBlueprintUserMessages: [BP_Weapon_Component] 2
+[2024.11.04-17.15.30:816][425]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.30:967][438]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Actor has been Hit
+[2024.11.04-17.15.30:967][438]LogBlueprintUserMessages: [BP_Squidzoid_C_21] 0
+[2024.11.04-17.15.30:968][438]LogBlueprintUserMessages: [BP_Squidzoid_C_21] Creature has Been Killed
+[2024.11.04-17.15.30:969][438]LogBlueprintUserMessages: [BP_AttackSpell_C_11] Ball has been Destroyed
+[2024.11.04-17.15.31:482][484]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Capture Mode
+[2024.11.04-17.15.32:360][561]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.32:583][580]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.33:081][624]LogBlueprintUserMessages: [BP_Weapon_Component] true
+[2024.11.04-17.15.33:904][697]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.33:939][700]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.34:420][743]LogBlueprintUserMessages: [BP_CaptureSpell_C_1] Ball has been Destroyed
+[2024.11.04-17.15.34:430][744]LogBlueprintUserMessages: [BP_Weapon_Component] true
+[2024.11.04-17.15.35:295][822]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.35:445][835]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.35:514][841]LogBlueprintUserMessages: [BP_CaptureSpell_C_2] Ball has been Destroyed
+[2024.11.04-17.15.35:789][866]LogBlueprintUserMessages: [BP_Weapon_Component] true
+[2024.11.04-17.15.36:990][974]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.38:542][115]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.40:095][251]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.41:643][386]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.43:184][525]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.44:721][661]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.46:268][799]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.46:614][830]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.46:652][833]LogBlueprintUserMessages: [BP_CaptureSpell_C_3] Ball has been Destroyed
+[2024.11.04-17.15.47:107][874]LogBlueprintUserMessages: [BP_Weapon_Component] false
+[2024.11.04-17.15.47:503][910]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Damage Mode
+[2024.11.04-17.15.47:814][938]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.49:256][ 72]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.15.49:256][ 72]LogBlueprintUserMessages: [BP_Weapon_Component] 9
+[2024.11.04-17.15.49:362][ 82]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.49:439][ 89]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Actor has been Hit
+[2024.11.04-17.15.49:439][ 89]LogBlueprintUserMessages: [BP_Squidzoid_C_13] 50
+[2024.11.04-17.15.49:439][ 89]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Actor has been Hit
+[2024.11.04-17.15.49:439][ 89]LogBlueprintUserMessages: [BP_Squidzoid_C_13] 0
+[2024.11.04-17.15.49:440][ 89]LogBlueprintUserMessages: [BP_Squidzoid_C_13] Creature has Been Killed
+[2024.11.04-17.15.49:441][ 89]LogBlueprintUserMessages: [BP_AttackSpell_C_12] Ball has been Destroyed
+[2024.11.04-17.15.50:909][226]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.52:456][370]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.53:999][513]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.55:542][657]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.57:079][798]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.15.58:629][940]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.00:180][ 83]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.01:715][221]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.02:083][255]LogBlueprintUserMessages: [BP_Squidzoid_C_27] DAMAGE ACTOR !!!
+[2024.11.04-17.16.02:963][335]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.16.03:258][362]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.04:807][505]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.06:002][618]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.16.06:354][649]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.07:351][741]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.16.07:351][741]LogBlueprintUserMessages: [BP_Weapon_Component] 8
+[2024.11.04-17.16.07:374][743]LogBlueprintUserMessages: [BP_AttackSpell_C_13] Ball has been Destroyed
+[2024.11.04-17.16.07:892][791]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.08:891][882]LogBlueprintUserMessages: [BP_Boss_Projectile_C_48] PLAYER HIT
+[2024.11.04-17.16.09:439][933]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.10:599][ 42]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.16.10:984][ 78]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.12:527][229]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.13:592][321]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.16.14:081][366]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.15:627][508]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.17:167][653]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.18:289][757]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.16.18:289][757]LogBlueprintUserMessages: [BP_Weapon_Component] 7
+[2024.11.04-17.16.18:402][767]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Enemy Projectile Spawned
+[2024.11.04-17.16.18:448][771]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Actor has been Hit
+[2024.11.04-17.16.18:448][771]LogBlueprintUserMessages: [BP_Squidzoid_C_27] 50
+[2024.11.04-17.16.18:449][771]LogBlueprintUserMessages: [BP_AttackSpell_C_14] Ball has been Destroyed
+[2024.11.04-17.16.18:710][795]LogBlueprintUserMessages: [BP_Boss_Eye_C_1] BOSS PROJECTILE SPAWNED
+[2024.11.04-17.16.18:802][803]LogBlueprintUserMessages: [BP_Weapon_Component] Ball has Been Spawned
+[2024.11.04-17.16.18:802][803]LogBlueprintUserMessages: [BP_Weapon_Component] 6
+[2024.11.04-17.16.19:004][821]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Actor has been Hit
+[2024.11.04-17.16.19:004][821]LogBlueprintUserMessages: [BP_Squidzoid_C_27] 0
+[2024.11.04-17.16.19:004][821]LogBlueprintUserMessages: [BP_Squidzoid_C_27] Creature has Been Killed
+[2024.11.04-17.16.19:005][821]LogBlueprintUserMessages: [BP_AttackSpell_C_15] Ball has been Destroyed
+[2024.11.04-17.16.19:629][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.16.19:630][876]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2024.11.04-17.16.19:630][876]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.16.19:633][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.16.19:634][876]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.04-17.16.19:634][876]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.04-17.16.19:640][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-17.16.19:646][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.16.19:664][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-17.16.19:665][876]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2024.11.04-17.16.19:665][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2024.11.04-17.16.19:667][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2024.11.04-17.16.19:679][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.04-17.16.19:779][877]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2024.11.04-17.16.26:312][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.04-17.16.26:319][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.16.26:359][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.16.26:391][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.04-17.16.26:469][284]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.16.26:470][284]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/MainBC64D5104F87DD55341026ABBAC7DB16.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.16.26:477][284]LogFileHelpers: Saving map 'Main' took 0.119
+[2024.11.04-17.16.26:500][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.468 ms (total: 29.8 sec)
+[2024.11.04-17.16.26:540][284]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.16.26:540][284]LogContentValidation: Enabled validators:
+[2024.11.04-17.16.26:540][284]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.16.26:540][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.16.26:540][284]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.16.26:540][284]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.16.26:540][284]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.17.01:236][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.04-17.17.01:244][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.17.01:308][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.17.01:340][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.04-17.17.01:419][750]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.17.01:420][750]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/MainD410BDEB4865C9276FD3569116F3DB86.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.17.01:428][750]LogFileHelpers: Saving map 'Main' took 0.122
+[2024.11.04-17.17.01:456][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.891 ms (total: 30.0 sec)
+[2024.11.04-17.17.01:526][750]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.17.01:526][750]LogContentValidation: Enabled validators:
+[2024.11.04-17.17.01:526][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.17.01:526][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.17.01:526][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.17.01:526][750]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.17.01:527][750]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.17.07:195][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.17.07:241][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.17.07:273][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.04-17.17.07:353][ 86]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.17.07:353][ 86]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/MainB971964F46CD965387346394FBCCE729.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.17.07:360][ 86]LogFileHelpers: Saving map 'Main' took 0.120
+[2024.11.04-17.17.07:385][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.593 ms (total: 30.2 sec)
+[2024.11.04-17.17.07:435][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.17.07:435][ 86]LogContentValidation: Enabled validators:
+[2024.11.04-17.17.07:435][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.17.07:435][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.17.07:435][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.17.07:435][ 86]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.17.07:436][ 86]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.17.25:386][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.17.25:443][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.17.25:473][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.04-17.17.25:553][455]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.17.25:553][455]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Main6FA18E5A4875FAEC75DBD784C7D0C3F3.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.17.25:560][455]LogFileHelpers: Saving map 'Main' took 0.118
+[2024.11.04-17.17.25:584][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.422 ms (total: 30.4 sec)
+[2024.11.04-17.17.25:651][455]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.17.25:651][455]LogContentValidation: Enabled validators:
+[2024.11.04-17.17.25:651][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.17.25:651][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.17.25:651][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.17.25:651][455]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.17.25:652][455]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.17.30:879][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.17.30:946][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.17.30:978][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.04-17.17.31:059][864]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.17.31:060][864]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Main5140B7724C11EADA9CA6D6BB6C1CAAA7.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.17.31:068][864]LogFileHelpers: Saving map 'Main' took 0.123
+[2024.11.04-17.17.31:092][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.417 ms (total: 30.6 sec)
+[2024.11.04-17.17.31:174][864]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.17.31:174][864]LogContentValidation: Enabled validators:
+[2024.11.04-17.17.31:174][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.17.31:174][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.17.31:174][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.17.31:174][864]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.17.31:175][864]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.18.07:609][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.18.07:658][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.04-17.18.07:690][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.04-17.18.07:769][534]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2024.11.04-17.18.07:770][534]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/Main761CE4EE40C8298FB85B2CB0620D2994.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Maps/Main.umap'
+[2024.11.04-17.18.07:778][534]LogFileHelpers: Saving map 'Main' took 0.121
+[2024.11.04-17.18.07:803][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.826 ms (total: 30.8 sec)
+[2024.11.04-17.18.07:858][534]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.18.07:858][534]LogContentValidation: Enabled validators:
+[2024.11.04-17.18.07:858][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.18.07:858][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.18.07:858][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.18.07:858][534]LogContentValidation: Display: Validating asset /Game/Maps/Main.Main
+[2024.11.04-17.18.07:859][534]AssetCheck: /Game/Maps/Main Validating asset
+[2024.11.04-17.18.18:033][406]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.18.18:033][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.18.18:212][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.04-17.18.19:486][494]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.04-17.18.19:486][494]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.18.19:486][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.18.19:622][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.11.04-17.18.20:508][563]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.04-17.18.20:508][563]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-17.18.20:508][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-17.18.20:638][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.04-17.18.31:918][535]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.04-17.18.39:011][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.04-17.18.39:019][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.18.39:072][104]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.04-17.18.39:084][104]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.04-17.18.39:084][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.04-17.18.39:104][104]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.04-17.18.39:104][104]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/BP_FirstPersonCharacterD323EC5141B72AF43C1E9B8DFA577856.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.04-17.18.39:120][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.722 ms (total: 30.9 sec)
+[2024.11.04-17.18.39:170][104]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.18.39:170][104]LogContentValidation: Enabled validators:
+[2024.11.04-17.18.39:170][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.18.39:170][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.18.39:170][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.18.39:170][104]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.04-17.18.39:171][104]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.04-17.18.51:418][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.04-17.19.02:208][276]LogEditorTransaction: Undo Move Anchor
+[2024.11.04-17.19.21:111][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.04-17.19.21:120][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-17.19.21:174][984]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UW_PlayerScreen] ([2] browsable assets)...
+[2024.11.04-17.19.21:180][984]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UW_PlayerScreen.UW_PlayerScreen]
+[2024.11.04-17.19.21:180][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UW_PlayerScreen]
+[2024.11.04-17.19.21:180][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UW_PlayerScreen" FILE="../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/UW_PlayerScreen.uasset" SILENT=true
+[2024.11.04-17.19.21:187][984]LogSavePackage: Moving output files for package: /Game/Blueprints/UW_PlayerScreen
+[2024.11.04-17.19.21:187][984]LogSavePackage: Moving '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Saved/UW_PlayerScreen81B0227F4FADD1B79954928C699134C1.tmp' to '../../../../../Users/s5294724/Documents/GitHub/GFSGameJam2024/GameJam_Hens/Content/Blueprints/UW_PlayerScreen.uasset'
+[2024.11.04-17.19.21:200][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.242 ms (total: 30.9 sec)
+[2024.11.04-17.19.21:258][984]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.04-17.19.21:258][984]LogContentValidation: Enabled validators:
+[2024.11.04-17.19.21:258][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.04-17.19.21:258][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.04-17.19.21:258][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.04-17.19.21:258][984]LogContentValidation: Display: Validating asset /Game/Blueprints/UW_PlayerScreen.UW_PlayerScreen
+[2024.11.04-17.19.21:261][984]AssetCheck: /Game/Blueprints/UW_PlayerScreen Validating asset
