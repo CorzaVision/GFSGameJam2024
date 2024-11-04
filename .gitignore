@@ -74,3 +74,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 GameJam_Hens/Saved/Logs/WorldPartition/StreamingGeneration-PIE_FirstPersonMap-00000748-2024-11-04T11.57.54.261Z.log
 GameJam_Hens/Saved/Telemetry/Telemetry.json
+GameJam_Hens/Saved/Logs/WorldPartition/StreamingGeneration-PIE_FirstPersonMap-00004020-2024-11-05T00.37.11.799Z.log
+*.log
